@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
 
-CLIENT_ID = '1yz6yc7m053hi63u'
-CLIENT_SECRET = 'OV3RmvsM'
+CLIENT_ID = 'YOUR_CLIENT_ID'
+CLIENT_SECRET = 'YOUR_SECRET'
 
 
 def get_authorization():
