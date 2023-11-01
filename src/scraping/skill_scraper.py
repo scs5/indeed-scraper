@@ -4,8 +4,8 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-CLIENT_ID = os.getenv('CLIENT_ID')
-CLIENT_SECRET = os.getenv('CLIENT_SECRET')
+CLIENT_ID = os.getenv('LIGHTCAST_CLIENT_ID')
+CLIENT_SECRET = os.getenv('LIGHTCAST_CLIENT_SECRET')
 
 
 def get_authorization():
