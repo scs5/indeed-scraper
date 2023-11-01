@@ -1,0 +1,667 @@
+Skill,Count,Category
+Machine Learning,47,Hard
+Python (Programming Language),46,Hard
+Computer Science,35,Hard
+Data Science,31,Hard
+Innovation,29,Soft
+Communications,29,Soft
+Deep Learning,23,Hard
+Research,23,Hard
+Algorithms,21,Hard
+PyTorch (Machine Learning Library),19,Hard
+Scalability,19,Hard
+Amazon Web Services,19,Hard
+SQL (Programming Language),18,Hard
+R (Programming Language),18,Hard
+Mathematics,17,Hard
+TensorFlow,17,Hard
+Natural Language Processing,16,Hard
+Writing,14,Soft
+Data Analysis,13,Hard
+Scikit-Learn (Python Package),12,Hard
+Application Programming Interface (API),12,Hard
+Apache Spark,12,Hard
+Problem Solving,12,Hard
+DevOps,12,Hard
+Microsoft Azure,12,Hard
+Tableau (Business Intelligence Software),10,Hard
+Statistics,10,Hard
+Detail Oriented,10,Soft
+Software Engineering,10,Hard
+MLOps (Machine Learning Operations),9,Hard
+Java (Programming Language),9,Hard
+Security Clearance,9,Soft
+Docker (Software),9,Hard
+C++ (Programming Language),9,Hard
+Linux,9,Hard
+Git (Version Control System),9,Hard
+Artificial Intelligence,9,Hard
+CI/CD,9,Hard
+Leadership,8,Soft
+Data Pipelines,8,Hard
+Kubernetes,8,Hard
+JavaScript (Programming Language),8,Hard
+Management,8,Soft
+Operations,8,Hard
+Unstructured Data,8,Hard
+Pandas (Python Package),8,Hard
+Automation,8,Hard
+Large Language Modeling,8,Hard
+Unit Testing,8,Hard
+Cloud Computing,7,Hard
+Computer Vision,7,Hard
+Self-Motivation,7,Soft
+Agile Methodology,7,Soft
+Debugging,7,Hard
+Curiosity,7,Soft
+C (Programming Language),7,Hard
+Predictive Modeling,7,Hard
+Extract Transform Load (ETL),7,Hard
+Applied Mathematics,7,Hard
+Software Development,7,Hard
+Authorization (Computing),6,Hard
+Nvidia CUDA,6,Hard
+NumPy (Python Package),6,Hard
+Keras (Neural Network Library),6,Hard
+Statistical Modeling,6,Hard
+Honesty,6,Soft
+Advanced Analytics,6,Hard
+Version Control,6,Hard
+Physics,6,Hard
+Data Engineering,6,Hard
+Generative Artificial Intelligence,6,Hard
+Dashboard,6,Hard
+Relational Databases,6,Hard
+Operations Research,6,Hard
+Presentations,6,Soft
+Jenkins,6,Hard
+Machine Learning Algorithms,5,Hard
+Finance,5,Hard
+English Language,5,Soft
+Github,5,Hard
+Troubleshooting (Problem Solving),5,Hard
+Data Warehousing,5,Hard
+Marketing,5,Soft
+NoSQL,5,Hard
+Planning,5,Soft
+Electrical Engineering,5,Hard
+React.js (Javascript Library),5,Hard
+Artificial Neural Networks,5,Hard
+Investigation,5,Soft
+Decision Making,5,Soft
+Computer Engineering,5,Hard
+Big Data,5,Hard
+Apache Hadoop,5,Hard
+Business Requirements,5,Soft
+Technology Solutions,5,Soft
+Apache Hive,5,Hard
+Technical Documentation,5,Soft
+Computer Architecture,5,Hard
+Consulting,5,Soft
+Data Visualization,5,Hard
+Chemistry,5,Hard
+Perl (Programming Language),4,Hard
+Systems Analysis,4,Hard
+Simulations,4,Hard
+Financial Services,4,Hard
+Code Review,4,Hard
+Feature Engineering,4,Hard
+Environmental Science,4,Hard
+Project Management,4,Soft
+Teamwork,4,Soft
+RESTful API,4,Hard
+Data Quality,4,Hard
+Mentorship,4,Soft
+Data-Driven Decision Making,4,Soft
+Disabilities,4,Soft
+Collaboration,4,Soft
+Verbal Communication Skills,4,Soft
+Random Forest Algorithm,4,Hard
+Data Modeling,4,Hard
+Scripting,4,Hard
+Data Management,4,Hard
+Linear Algebra,3,Hard
+Algorithm Design,3,Hard
+Performance Modeling,3,Hard
+Ethical Standards And Conduct,3,Soft
+Virtual Teams,3,Soft
+Feature Selection,3,Hard
+Investments,3,Hard
+Scheduling,3,Soft
+Mental Health,3,Soft
+Prescriptive Analytics,3,Hard
+Prioritization,3,Soft
+Autism Spectrum Disorders,3,Soft
+Diabetes Mellitus,3,Hard
+Chronic Diseases,3,Hard
+Causal Inference,3,Hard
+Knowledge Graph,3,Hard
+Digital Electronics,3,Hard
+Data Mining,3,Hard
+Engineering Management,3,Soft
+Influencing Skills,3,Soft
+Distributed Computing,3,Hard
+Knowledge Transfer,3,Soft
+Creative Thinking,3,Soft
+SAS (Software),3,Hard
+Django (Web Framework),3,Hard
+Analytics,3,Hard
+Power BI,3,Hard
+Flask (Web Framework),3,Hard
+Data Processing,3,Hard
+Sales,3,Soft
+Databricks,3,Hard
+Continuous Improvement Process,3,Soft
+Hugging Face (NLP Framework),3,Hard
+New Product Development,3,Soft
+SpaCy (NLP Software),3,Hard
+Digital Image Processing,3,Hard
+Go (Programming Language),3,Hard
+Operating Systems,3,Hard
+Object-Oriented Programming (OOP),3,Hard
+MySQL,3,Hard
+Quality Control,3,Hard
+Cloud Services,3,Hard
+Signal Processing,3,Hard
+Mechanical Engineering,3,Hard
+HyperText Markup Language (HTML),3,Hard
+Unsupervised Learning,3,Hard
+Analytical Skills,3,Soft
+Remote Sensing,3,Hard
+Elasticsearch,3,Hard
+Data Infrastructure,3,Hard
+Scala (Programming Language),3,Hard
+Text Mining,3,Hard
+Business Intelligence,3,Hard
+Information Technology,3,Hard
+Shell Script,3,Hard
+Data Structures,3,Hard
+Sqoop,3,Hard
+Biotechnology,3,Hard
+Biology,3,Hard
+Quantitative Analysis,3,Hard
+Bitbucket,3,Hard
+Cascading Style Sheets (CSS),3,Hard
+Post Traumatic Stress Disorder,3,Soft
+Reinforcement Learning,3,Hard
+Unix,2,Hard
+Kubeflow,2,Hard
+Water Distribution,2,Hard
+Markdown,2,Soft
+Water Supply Networks,2,Hard
+LaTeX,2,Hard
+Pyspark,2,Hard
+Linear Regression,2,Hard
+Machine Learning Methods,2,Hard
+User Experience (UX),2,Soft
+Cloud Infrastructure,2,Hard
+Application Performance Management,2,Hard
+Numerical Analysis,2,Hard
+MATLAB,2,Hard
+Full Stack Development,2,Hard
+Global Management,2,Soft
+Microbiology,2,Hard
+Amazon S3,2,Hard
+Genomics,2,Hard
+Bioinformatics,2,Hard
+Caffe2,2,Hard
+Apache Solr,2,Hard
+Apache OpenNLP,2,Hard
+Building Services Engineering,2,Hard
+AWS SageMaker,2,Hard
+Data Extraction,2,Hard
+Object Detection,2,Hard
+Machine Learning Model Training,2,Hard
+Probability Theories,2,Hard
+Image Recognition,2,Hard
+Multitasking,2,Soft
+Workflow Automation,2,Hard
+Quality Assurance,2,Hard
+Equities,2,Hard
+Software Design,2,Hard
+Hibernate (Java),2,Hard
+Lean Manufacturing,2,Hard
+Prototyping,2,Hard
+Sewage Treatments,2,Hard
+Environmental Technology,2,Hard
+Willingness To Learn,2,Soft
+Research Experiences,2,Hard
+Lifecycle Management,2,Hard
+Smart Meter Systems,2,Hard
+Digital Twin,2,Hard
+Product Lifecycle Management,2,Hard
+Public Utility,2,Hard
+Development Testing,2,Hard
+MLflow,2,Hard
+Torch (Machine Learning),2,Hard
+Project Stakeholders,2,Soft
+BERT (NLP Model),2,Hard
+Metadata,2,Hard
+Medical Imaging,2,Hard
+Neuroscience,2,Hard
+Demonstration Skills,2,Soft
+Code Of Federal Regulations,2,Hard
+Environmental Issue,2,Hard
+Data Curation,2,Hard
+Project Scoping,2,Soft
+Calculations,2,Hard
+Investment Management,2,Soft
+Information Retrieval,2,Hard
+Biological Process,2,Hard
+Apache MXNet,2,Hard
+Environmental Risk Assessment,2,Hard
+Chemical Safety,2,Hard
+Interpersonal Communications,2,Soft
+Serverless Computing,2,Hard
+Creative Problem Solving,2,Soft
+Student Services,2,Soft
+Computational Tools,2,Hard
+Question Answering,2,Hard
+Independent Thinking,2,Soft
+Portfolio Management,2,Soft
+Visionary,2,Soft
+Functional Requirement,2,Hard
+Proposal Writing,2,Soft
+Computational Neuroscience,2,Hard
+Gensim (NLP Software),2,Hard
+JanusGraph,2,Hard
+LexisNexis,2,Hard
+Smart Device,2,Hard
+Data Ingestion,2,Hard
+Business Operations,2,Hard
+Data Transformation,2,Hard
+Data Manipulation,2,Hard
+Microsoft Excel,2,Hard
+Technology Ecosystems,2,Soft
+Process Modeling,2,Hard
+Toxicology,2,Hard
+Manufacturing Automation,2,Hard
+Environmental Monitoring,2,Hard
+Pharmaceutical Sciences,2,Hard
+Fact Sheets,2,Hard
+Informatics,2,Hard
+Biomedical Engineering,2,Hard
+Autonomous System,2,Hard
+Intelligent Systems,2,Hard
+Electronic Design Automation,2,Hard
+Web Applications,2,Hard
+Contextual Image Classification,2,Hard
+Apache Oozie,2,Hard
+Ruby (Programming Language),2,Hard
+Information Privacy,2,Soft
+Data Transmissions,2,Hard
+Physical Science,2,Hard
+Shiny (R Package),2,Hard
+ArcGIS (GIS Software),2,Hard
+Business To Business,2,Soft
+Quantum GIS (QGIS),2,Hard
+Pharmaceuticals,2,Hard
+Business Software,2,Hard
+MongoDB,2,Hard
+Information Technology Operations,2,Hard
+Reliability,2,Hard
+Continuous Deployment,2,Hard
+Geographic Information Systems,2,Hard
+Windows PowerShell,2,Hard
+Apache Flume,2,Hard
+Systems Engineering,2,Hard
+Information Technology Architecture,2,Hard
+Gerrit,2,Hard
+Google Cloud Platform (GCP),2,Hard
+Enthusiasm,2,Soft
+Apache Airflow,2,Hard
+Software Design Patterns,2,Hard
+Software Systems,2,Hard
+Applied Research,2,Hard
+Compliance Reporting,2,Hard
+Continuous Integration,2,Hard
+Reengineering,2,Hard
+Complex Problem Solving,2,Soft
+Data Cleansing,2,Hard
+PostgreSQL,2,Hard
+Azure Databricks,2,Hard
+Boosting,2,Hard
+Functional Programming,2,Hard
+Process Analysis,2,Hard
+Statistical Analysis,2,Hard
+Database Management Systems,2,Hard
+Timelines,2,Soft
+Development Environment,2,Hard
+Terraform,2,Hard
+Testability,2,Hard
+Cloud Operations,2,Hard
+Ansible,2,Hard
+Progress Reporting,2,Soft
+Test Planning,2,Hard
+User Interface (UI),2,Hard
+Solution Architecture,2,Hard
+System Identification,1,Hard
+Chemical Process,1,Hard
+Software Quality (SQA/SQC),1,Hard
+Supercomputing,1,Hard
+Ideation,1,Soft
+Coherent Remote File System (CRFS),1,Hard
+Healthcare Industry Knowledge,1,Soft
+Disinfecting,1,Hard
+Core Product,1,Hard
+Flocculation,1,Hard
+LESS,1,Hard
+Business Valuation,1,Soft
+.NET Framework,1,Hard
+Relationship Building,1,Soft
+Real World Data,1,Hard
+Recommender Systems,1,Hard
+Mathematical Sciences,1,Hard
+Product Management,1,Soft
+Angular (Web Framework),1,Hard
+OpenShift,1,Hard
+Asset Management,1,Soft
+Mathematical Optimization,1,Hard
+Coagulation,1,Hard
+Electricity Generation,1,Hard
+Hydraulics,1,Hard
+Sedimentation,1,Hard
+Filtration,1,Hard
+Performance Analysis,1,Hard
+Computing Platforms,1,Hard
+Data Validation,1,Hard
+Business Metrics,1,Soft
+Drilldown,1,Hard
+Medical Research,1,Hard
+Business Administration,1,Soft
+Satellite Imagery,1,Hard
+Amazon DynamoDB,1,Hard
+Team Oriented,1,Soft
+Udeploy,1,Hard
+Data Lakes,1,Hard
+Water Quality,1,Hard
+Wastewater,1,Hard
+Emerging Technologies,1,Hard
+Pattern Recognition,1,Hard
+Natural Language Understanding,1,Hard
+Technical Writing,1,Hard
+Biostatistics,1,Hard
+AWS Kinesis,1,Hard
+Water Treatment,1,Hard
+User Interface (UI) Design,1,Hard
+Epidemiology,1,Hard
+Software Development Methodologies,1,Hard
+Program Management,1,Soft
+Document-Oriented Databases,1,Hard
+Probability,1,Hard
+Data Store,1,Hard
+Business Development,1,Soft
+Data Integration,1,Hard
+Stochastic Modeling,1,Hard
+Network Analysis,1,Hard
+Requirements Elicitation,1,Soft
+System Requirements,1,Hard
+Applications Architecture,1,Hard
+Azure Cosmos DB,1,Hard
+Node.js (Javascript Library),1,Hard
+Markov Chain,1,Hard
+Registration,1,Hard
+Persona (User Experience),1,Soft
+Export Control,1,Soft
+Digital Technology,1,Soft
+Enterprise Application Software,1,Hard
+ServiceNow,1,Hard
+Ingenuity,1,Soft
+Jersey (Java Framework),1,Hard
+Intelligence Analysis,1,Hard
+Loans,1,Soft
+Mortgage Loans,1,Soft
+Design Strategies,1,Soft
+SQLAlchemy,1,Hard
+Optimism,1,Soft
+Web Platforms,1,Hard
+Rspec,1,Hard
+Integration Testing,1,Hard
+Model View Controller,1,Hard
+Time Series Analysis And Forecasting,1,Hard
+Variational Autoencoders,1,Hard
+Thought Leadership,1,Soft
+Analytical Techniques,1,Hard
+Hybrid Cloud Computing,1,Hard
+Job Scheduling (Inventory Management),1,Hard
+Data Hub,1,Hard
+Technical Leadership,1,Soft
+Azure DevOps,1,Hard
+Proactivity,1,Soft
+Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),1,Hard
+Xgboost,1,Hard
+Call Recording,1,Soft
+Scientific Methods,1,Hard
+Predictive Analytics,1,Hard
+Generative Adversarial Networks,1,Hard
+Cloud Technologies,1,Hard
+Excel Formulas,1,Hard
+Technical Training,1,Soft
+Informatica,1,Hard
+Fast.ai,1,Hard
+D3.js (Javascript Library),1,Hard
+Servant Leadership,1,Soft
+Anomaly Detection,1,Hard
+Trustworthiness,1,Soft
+Sales Process,1,Soft
+Infrastructure As A Service (IaaS),1,Hard
+Business Presentations,1,Soft
+Decision Tree Learning,1,Hard
+Project Implementation,1,Soft
+Multivariate Testing,1,Soft
+Product Analytics,1,Hard
+Multivariate Analysis,1,Hard
+Deficits,1,Soft
+Supervised Learning,1,Hard
+Technical Acumen,1,Soft
+Team Management,1,Soft
+Capital Markets,1,Hard
+Requirement Prioritization,1,Soft
+On Prem,1,Hard
+Project Planning,1,Soft
+Networking Hardware,1,Hard
+Video Analytics,1,Hard
+Disease Prevention,1,Hard
+Auditing,1,Hard
+Descriptive Analytics,1,Hard
+Financial Modeling,1,Hard
+Organizational Performance,1,Hard
+Product Design,1,Soft
+Prompt Engineering,1,Soft
+Ruby On Rails,1,Hard
+Azure Machine Learning,1,Hard
+Oil And Gas,1,Hard
+Advocacy,1,Soft
+Field-Programmable Gate Array (FPGA),1,Hard
+JIRA,1,Soft
+Linear Algebra Package (LAPACK),1,Hard
+Exploratory Data Analysis,1,Hard
+Secret Clearance,1,Hard
+Robotic Systems,1,Hard
+System On A Chip,1,Hard
+Customer Service,1,Soft
+Distributed File Systems,1,Hard
+Product Strategy,1,Soft
+Computational Statistics,1,Hard
+Control-M (Batch Scheduling Software),1,Hard
+GraphQL,1,Hard
+Machinery,1,Hard
+Avalara (Tax Software),1,Hard
+Wearables,1,Hard
+Dimensionality Reduction,1,Hard
+Response Models,1,Hard
+Life Sciences,1,Hard
+Network Sockets,1,Hard
+Grafana,1,Hard
+Opensearch,1,Hard
+Intellectual Curiosity,1,Soft
+IPv4,1,Hard
+Real Time Data,1,Hard
+Product Engineering,1,Soft
+Observability,1,Hard
+Erlang,1,Hard
+Infrastructure as Code (IaC),1,Hard
+Elixir (Programming Language),1,Hard
+Door Hinges,1,Hard
+Cloud Hosting,1,Hard
+IPv6,1,Hard
+Toolchain,1,Hard
+Open Neural Network Exchange (ONNX),1,Hard
+Statistical Learning Theory,1,Hard
+Database Connection,1,Hard
+Marketing Mix Modeling,1,Hard
+Software As A Service (SaaS),1,Hard
+Construction Management,1,Soft
+Small-Unmanned Aerial Systems (S-UAS),1,Hard
+Resourcefulness,1,Soft
+Cartographic Design,1,Soft
+Environmental Permitting,1,Hard
+Spatial Data Infrastructures,1,Hard
+Higher Education,1,Soft
+Management Information Systems,1,Hard
+Direct-to-Consumer (DTC),1,Hard
+Digital Data,1,Hard
+Object-Relational Mapping,1,Hard
+Process Improvement,1,Soft
+Strategic Planning,1,Soft
+Virtual Learning Environments,1,Soft
+Microservices,1,Hard
+Microsoft PowerPoint,1,Soft
+A/B Testing,1,Hard
+Microsoft Access,1,Hard
+Technical Debt,1,Soft
+Spatial Abilities,1,Soft
+Valid Driver's License,1,Soft
+Unmanned Aerial Vehicle,1,Hard
+Video Game Development,1,Hard
+Coaching,1,Soft
+Software Versioning,1,Hard
+Recurrent Neural Network (RNN),1,Hard
+Data Strategy,1,Soft
+Hadoop Distributed File System (HDFS),1,Hard
+Query Languages,1,Hard
+Systems Architecture,1,Hard
+Chatbot,1,Hard
+Dialogflow (Google Service),1,Hard
+Amazon Lex,1,Hard
+Applied Statistics,1,Hard
+Digital Transformation,1,Soft
+Teradata SQL,1,Hard
+Apache Parquet,1,Hard
+Job/Batch Scheduling,1,Hard
+Engineering Plans And Specifications,1,Soft
+Apache Avro,1,Hard
+Ansi Sql,1,Hard
+Technical Design,1,Hard
+Unreal Engine,1,Hard
+Ad Hoc Analysis,1,Hard
+Wetland Restoration,1,Hard
+Sensor Fusion,1,Hard
+Mobile Phones,1,Soft
+Lifelong Learning,1,Soft
+Graph Algorithms,1,Hard
+Journals,1,Soft
+National Environmental Policy Act,1,Hard
+Hydraulic Engineering,1,Hard
+Regulatory Compliance,1,Hard
+Geospatial Data Abstraction Library (GDAL),1,Hard
+Epic EMR,1,Hard
+Environmental Studies,1,Hard
+Ecological Restoration,1,Hard
+Environmental Planning,1,Hard
+Health Reimbursement Arrangement,1,Soft
+Postman API Platform,1,Hard
+Online Service Provider,1,Hard
+Web Services,1,Hard
+Architectural Design,1,Hard
+Geospatial Analysis,1,Hard
+Environmental Social And Corporate Governance (ESG),1,Soft
+Tax Compliance,1,Hard
+Word2Vec Models,1,Hard
+Clinical Trials,1,Hard
+Network Routing,1,Hard
+Bash (Scripting Language),1,Hard
+Drug Development,1,Hard
+Julia (Programming Language),1,Hard
+Therapeutic Modalities,1,Soft
+Firewall,1,Hard
+Data Preprocessing,1,Hard
+Biomedical Informatics,1,Hard
+Electronic Lab Notebook,1,Hard
+Genetics,1,Hard
+Operational Excellence,1,Soft
+Relation Extraction,1,Hard
+Computational Linguistics,1,Hard
+Open-Source Software,1,Hard
+Scientific Literature,1,Soft
+Software Coding,1,Hard
+Part-of-Speech Tagging,1,Hard
+Image Segmentation,1,Hard
+Statistical Software,1,Hard
+PHP (Scripting Language),1,Hard
+Product Knowledge,1,Soft
+OpenMP,1,Hard
+Amazon Redshift,1,Hard
+Cross-Functional Collaboration,1,Soft
+BigQuery,1,Hard
+Ping (Networking Utility),1,Hard
+Project Coordination,1,Soft
+Digital Signal Processing,1,Hard
+High Performance Computing,1,Hard
+OpenCL,1,Hard
+General-Purpose Computing On Graphics Processing Units,1,Hard
+Product Leadership,1,Soft
+Message Passing Interface,1,Hard
+Molecular Biology,1,Hard
+Experimental Data,1,Hard
+Medical Devices,1,Hard
+Quick Learning,1,Soft
+Data Normalization,1,Hard
+Vertica,1,Hard
+Statistical Hypothesis Testing,1,Hard
+Latent Semantic Indexing,1,Hard
+Topic Modeling,1,Hard
+Energetic,1,Soft
+Named Entity Recognition,1,Hard
+Marine Science,1,Hard
+Employee Assistance Programs,1,Soft
+Systems Development Life Cycle,1,Hard
+Coordinating,1,Soft
+Data Collection,1,Hard
+Construction,1,Hard
+Governance,1,Hard
+Unmanned Aerial Systems (UAS),1,Hard
+Social Sciences,1,Soft
+Geography,1,Soft
+Pilot Licensing And Certification,1,Hard
+ArcGIS Survey123,1,Hard
+Disaster Recovery,1,Hard
+Water Resources,1,Hard
+ArcMap,1,Hard
+Organizational Architecture,1,Hard
+Drone Pilot Certificate,1,Hard
+Geospatial Mapping,1,Hard
+Microsoft Power Automate/Flow,1,Hard
+Public Health,1,Hard
+Regression Testing,1,Hard
+Bayesian Modeling,1,Hard
+Automated Machine Learning,1,Hard
+Text Processing,1,Hard
+Streamlining,1,Soft
+Containerization,1,Hard
+OpenAPI,1,Hard
+Critical Thinking,1,Soft
+Software Testing,1,Hard
+AWS CloudFormation,1,Hard
+FastAPI,1,Hard
+Medical Records,1,Hard
+Technical Communication,1,Soft
+Adaptability,1,Soft
+Matplotlib (Python Package),1,Hard
+Revenue Cycle Management,1,Hard
+Invoicing,1,Hard
+Document Processing,1,Hard
+Support Vector Machine,1,Hard
+Production Code,1,Hard
+Logistic Regression,1,Hard
+Blogs,1,Soft
