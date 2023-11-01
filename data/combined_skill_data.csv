@@ -1,0 +1,666 @@
+Skill,Type,Category,Count
+Machine Learning,Hard,Machine Learning Algorithms/Models,47
+Python (Programming Language),Hard,Programming Languages,46
+Computer Science,Hard,Other,35
+Data Science,Hard,Data Analytics & Visualization,31
+Innovation,Soft,Business and Communication,29
+Communications,Soft,Business and Communication,29
+Deep Learning,Hard,Machine Learning Algorithms/Models,23
+Research,Soft,Problem Solving and Research,23
+Algorithms,Hard,Problem Solving and Research,21
+PyTorch (Machine Learning Library),Hard,Tools and Libraries,19
+Scalability,Hard,Other,19
+Amazon Web Services,Hard,Cloud and Infrastructure,19
+SQL (Programming Language),Hard,Data Management,18
+R (Programming Language),Hard,Programming Languages,18
+Mathematics,Hard,Mathematics and Statistics,17
+TensorFlow,Hard,Machine Learning Algorithms/Models,17
+Natural Language Processing,Hard,Machine Learning Algorithms/Models,16
+Writing,Soft,Business and Communication,14
+Data Analysis,Hard,Data Analytics & Visualization,13
+Scikit-Learn (Python Package),Hard,Tools and Libraries,12
+Application Programming Interface (API),Hard,Tools and Libraries,12
+Apache Spark,Hard,Cloud and Infrastructure,12
+Problem Solving,Hard,Problem Solving and Research,12
+DevOps,Hard,Cloud and Infrastructure,12
+Microsoft Azure,Hard,Cloud and Infrastructure,12
+Tableau (Business Intelligence Software),Hard,Data Analytics & Visualization,10
+Statistics,Hard,Mathematics and Statistics,10
+Detail Oriented,Soft,Other,10
+Software Engineering,Hard,Programming Languages,10
+MLOps (Machine Learning Operations),Hard,Other,9
+Java (Programming Language),Hard,Programming Languages,9
+Security Clearance,Hard,Other,9
+Docker (Software),Hard,Cloud and Infrastructure,9
+C++ (Programming Language),Hard,Programming Languages,9
+Linux,Hard,Other,9
+Git (Version Control System),Hard,Tools and Libraries,9
+Artificial Intelligence,Hard,Machine Learning Algorithms/Models,9
+CI/CD,Hard,Other,9
+Leadership,Soft,Business and Communication,8
+Data Pipelines,Hard,Data Management,8
+Kubernetes,Hard,Cloud and Infrastructure,8
+JavaScript (Programming Language),Hard,Programming Languages,8
+Management,Soft,Business and Communication,8
+Operations,Soft,Other,8
+Unstructured Data,Hard,Other,8
+Pandas (Python Package),Hard,Data Analytics & Visualization,8
+Automation,Hard,Other,8
+Large Language Modeling,Hard,Machine Learning Algorithms/Models,8
+Unit Testing,Hard,Programming Languages,8
+Cloud Computing,Hard,Cloud and Infrastructure,7
+Computer Vision,Hard,Machine Learning Algorithms/Models,7
+Self-Motivation,Soft,Business and Communication,7
+Agile Methodology,Soft,Other,7
+Debugging,Hard,Other,7
+Curiosity,Soft,Other,7
+C (Programming Language),Hard,Programming Languages,7
+Predictive Modeling,Hard,Machine Learning Algorithms/Models,7
+Extract Transform Load (ETL),Hard,Data Management,7
+Applied Mathematics,Hard,Mathematics and Statistics,7
+Software Development,Hard,Programming Languages,7
+Authorization (Computing),Hard,Other,6
+Nvidia CUDA,Hard,Tools and Libraries,6
+NumPy (Python Package),Hard,Tools and Libraries,6
+Keras (Neural Network Library),Hard,Tools and Libraries,6
+Statistical Modeling,Hard,Mathematics and Statistics,6
+Honesty,Soft,Business and Communication,6
+Advanced Analytics,Hard,Data Analytics & Visualization,6
+Version Control,Hard,Tools and Libraries,6
+Physics,Hard,Mathematics and Statistics,6
+Data Engineering,Hard,Data Management,6
+Generative Artificial Intelligence,Hard,Machine Learning Algorithms/Models,6
+Dashboard,Hard,Data Analytics & Visualization,6
+Relational Databases,Hard,Data Management,6
+Operations Research,Hard,Mathematics and Statistics,6
+Presentations,Soft,Business and Communication,6
+Jenkins,Hard,Tools and Libraries,6
+Machine Learning Algorithms,Hard,Machine Learning Algorithms/Models,5
+Finance,Soft,Business and Communication,5
+English Language,Soft,Business and Communication,5
+Github,Hard,Tools and Libraries,5
+Troubleshooting (Problem Solving),Hard,Problem Solving and Research,5
+Data Warehousing,Hard,Data Management,5
+Marketing,Soft,Business and Communication,5
+NoSQL,Hard,Data Management,5
+Planning,Soft,Other,5
+Electrical Engineering,Hard,Other,5
+React.js (Javascript Library),Hard,Programming Languages,5
+Artificial Neural Networks,Hard,Machine Learning Algorithms/Models,5
+Investigation,Soft,Problem Solving and Research,5
+Decision Making,Soft,Other,5
+Computer Engineering,Hard,Other,5
+Big Data,Hard,Data Management,5
+Apache Hadoop,Hard,Cloud and Infrastructure,5
+Business Requirements,Soft,Business and Communication,5
+Technology Solutions,Soft,Other,5
+Apache Hive,Hard,Data Management,5
+Technical Documentation,Soft,Business and Communication,5
+Computer Architecture,Hard,Other,5
+Consulting,Soft,Business and Communication,5
+Data Visualization,Hard,Data Analytics & Visualization,5
+Chemistry,Hard,Other,5
+Perl (Programming Language),Hard,Programming Languages,4
+Systems Analysis,Hard,Data Management,4
+Simulations,Hard,Other,4
+Financial Services,Soft,Business and Communication,4
+Code Review,Hard,Programming Languages,4
+Feature Engineering,Hard,Data Analytics & Visualization,4
+Environmental Science,Soft,Other,4
+Project Management,Soft,Business and Communication,4
+Teamwork,Soft,Business and Communication,4
+RESTful API,Hard,Tools and Libraries,4
+Data Quality,Hard,Data Management,4
+Mentorship,Soft,Business and Communication,4
+Data-Driven Decision Making,Hard,Data Analytics & Visualization,4
+Disabilities,Soft,Other,4
+Collaboration,Soft,Business and Communication,4
+Verbal Communication Skills,Soft,Business and Communication,4
+Random Forest Algorithm,Hard,Machine Learning Algorithms/Models,4
+Data Modeling,Hard,Data Management,4
+Scripting,Hard,Programming Languages,4
+Data Management,Hard,Data Management,4
+Linear Algebra,Hard,Mathematics and Statistics,3
+Algorithm Design,Hard,Problem Solving and Research,3
+Performance Modeling,Hard,Mathematics and Statistics,3
+Ethical Standards And Conduct,Soft,Other,3
+Virtual Teams,Soft,Business and Communication,3
+Feature Selection,Hard,Problem Solving and Research,3
+Investments,Soft,Business and Communication,3
+Scheduling,Soft,Other,3
+Mental Health,Soft,Other,3
+Prescriptive Analytics,Hard,Data Analytics & Visualization,3
+Prioritization,Soft,Other,3
+Autism Spectrum Disorders,Soft,Other,3
+Diabetes Mellitus,Soft,Other,3
+Chronic Diseases,Soft,Other,3
+Causal Inference,Hard,Problem Solving and Research,3
+Knowledge Graph,Hard,Data Analytics & Visualization,3
+Digital Electronics,Hard,Other,3
+Data Mining,Hard,Data Management,3
+Engineering Management,Soft,Other,3
+Influencing Skills,Soft,Business and Communication,3
+Distributed Computing,Hard,Cloud and Infrastructure,3
+Knowledge Transfer,Soft,Business and Communication,3
+Creative Thinking,Soft,Other,3
+SAS (Software),Hard,Tools and Libraries,3
+Django (Web Framework),Hard,Tools and Libraries,3
+Analytics,Hard,Data Analytics & Visualization,3
+Power BI,Hard,Data Analytics & Visualization,3
+Flask (Web Framework),Hard,Tools and Libraries,3
+Data Processing,Hard,Data Management,3
+Sales,Soft,Business and Communication,3
+Databricks,Hard,Cloud and Infrastructure,3
+Continuous Improvement Process,Soft,Other,3
+Hugging Face (NLP Framework),Hard,Tools and Libraries,3
+New Product Development,Soft,Other,3
+SpaCy (NLP Software),Hard,Tools and Libraries,3
+Digital Image Processing,Hard,Other,3
+Go (Programming Language),Hard,Programming Languages,3
+Operating Systems,Hard,Other,3
+Object-Oriented Programming (OOP),Hard,Programming Languages,3
+MySQL,Hard,Data Management,3
+Quality Control,Hard,Other,3
+Cloud Services,Hard,Cloud and Infrastructure,3
+Signal Processing,Hard,Other,3
+Mechanical Engineering,Hard,Other,3
+HyperText Markup Language (HTML),Hard,Programming Languages,3
+Unsupervised Learning,Hard,Machine Learning Algorithms/Models,3
+Analytical Skills,Hard,Other,3
+Remote Sensing,Hard,Other,3
+Elasticsearch,Hard,Data Management,3
+Data Infrastructure,Hard,Data Management,3
+Scala (Programming Language),Hard,Programming Languages,3
+Text Mining,Hard,Data Analytics & Visualization,3
+Business Intelligence,Hard,Data Analytics & Visualization,3
+Information Technology,Hard,Other,3
+Shell Script,Hard,Programming Languages,3
+Data Structures,Hard,Programming Languages,3
+Sqoop,Hard,Data Management,3
+Biotechnology,Hard,Other,3
+Biology,Hard,Other,3
+Quantitative Analysis,Hard,Mathematics and Statistics,3
+Bitbucket,Hard,Tools and Libraries,3
+Cascading Style Sheets (CSS),Hard,Programming Languages,3
+Post Traumatic Stress Disorder,Soft,Other,3
+Reinforcement Learning,Hard,Machine Learning Algorithms/Models,3
+Unix,Hard,Other,2
+Kubeflow,Hard,Cloud and Infrastructure,2
+Water Distribution,Hard,Other,2
+Markdown,Hard,Tools and Libraries,2
+Water Supply Networks,Hard,Other,2
+LaTeX,Hard,Tools and Libraries,2
+Pyspark,Hard,Tools and Libraries,2
+Linear Regression,Hard,Machine Learning Algorithms/Models,2
+Machine Learning Methods,Hard,Machine Learning Algorithms/Models,2
+User Experience (UX),Soft,Other,2
+Cloud Infrastructure,Hard,Cloud and Infrastructure,2
+Application Performance Management,Hard,Other,2
+Numerical Analysis,Hard,Mathematics and Statistics,2
+MATLAB,Hard,Programming Languages,2
+Full Stack Development,Hard,Programming Languages,2
+Global Management,Soft,Business and Communication,2
+Microbiology,Hard,Biological Process,2
+Amazon S3,Hard,Cloud and Infrastructure,2
+Genomics,Hard,Bioinformatics,2
+Bioinformatics,Hard,Bioinformatics,2
+Caffe2,Hard,Machine Learning Algorithms/Models,2
+Apache Solr,Hard,Tools and Libraries,2
+Apache OpenNLP,Hard,Tools and Libraries,2
+Building Services Engineering,Hard,Other,2
+AWS SageMaker,Hard,Machine Learning Algorithms/Models,2
+Data Extraction,Hard,Data Management,2
+Object Detection,Hard,Machine Learning Algorithms/Models,2
+Machine Learning Model Training,Hard,Machine Learning Algorithms/Models,2
+Probability Theories,Hard,Mathematics and Statistics,2
+Image Recognition,Hard,Machine Learning Algorithms/Models,2
+Multitasking,Soft,Other,2
+Workflow Automation,Hard,Other,2
+Quality Assurance,Hard,Other,2
+Equities,Hard,Other,2
+Software Design,Hard,Programming Languages,2
+Hibernate (Java),Hard,Programming Languages,2
+Lean Manufacturing,Hard,Business and Communication,2
+Prototyping,Hard,Problem Solving and Research,2
+Sewage Treatments,Hard,Other,2
+Environmental Technology,Hard,Other,2
+Willingness To Learn,Soft,Business and Communication,2
+Research Experiences,Soft,Problem Solving and Research,2
+Lifecycle Management,Hard,Business and Communication,2
+Smart Meter Systems,Hard,Other,2
+Digital Twin,Hard,Other,2
+Product Lifecycle Management,Hard,Other,2
+Public Utility,Hard,Other,2
+Development Testing,Hard,Other,2
+MLflow,Hard,Tools and Libraries,2
+Torch (Machine Learning),Hard,Machine Learning Algorithms/Models,2
+Project Stakeholders,Soft,Business and Communication,2
+BERT (NLP Model),Hard,Machine Learning Algorithms/Models,2
+Metadata,Hard,Data Management,2
+Medical Imaging,Hard,Other,2
+Neuroscience,Hard,Other,2
+Demonstration Skills,Soft,Business and Communication,2
+Code Of Federal Regulations,Hard,Business and Communication,2
+Environmental Issue,Hard,Other,2
+Data Curation,Hard,Data Management,2
+Project Scoping,Soft,Business and Communication,2
+Calculations,Hard,Mathematics and Statistics,2
+Investment Management,Hard,Business and Communication,2
+Information Retrieval,Hard,Data Analytics & Visualization,2
+Biological Process,Hard,Biological Process,2
+Apache MXNet,Hard,Machine Learning Algorithms/Models,2
+Environmental Risk Assessment,Hard,Other,2
+Chemical Safety,Hard,Other,2
+Interpersonal Communications,Soft,Business and Communication,2
+Serverless Computing,Hard,Cloud and Infrastructure,2
+Creative Problem Solving,Soft,Problem Solving and Research,2
+Student Services,Soft,Business and Communication,2
+Computational Tools,Hard,Tools and Libraries,2
+Question Answering,Hard,Machine Learning Algorithms/Models,2
+Independent Thinking,Soft,Problem Solving and Research,2
+Portfolio Management,Hard,Business and Communication,2
+Visionary,Soft,Business and Communication,2
+Functional Requirement,Hard,Other,2
+Proposal Writing,Hard,Business and Communication,2
+Computational Neuroscience,Hard,Other,2
+Gensim (NLP Software),Hard,Tools and Libraries,2
+JanusGraph,Hard,Tools and Libraries,2
+LexisNexis,Hard,Tools and Libraries,2
+Smart Device,Hard,Other,2
+Data Ingestion,Hard,Data Management,2
+Business Operations,Hard,Business and Communication,2
+Data Transformation,Hard,Data Management,2
+Data Manipulation,Hard,Data Management,2
+Microsoft Excel,Hard,Data Analytics & Visualization,2
+Technology Ecosystems,Hard,Other,2
+Process Modeling,Hard,Problem Solving and Research,2
+Toxicology,Hard,Other,2
+Manufacturing Automation,Hard,Other,2
+Environmental Monitoring,Hard,Other,2
+Pharmaceutical Sciences,Hard,Other,2
+Fact Sheets,Hard,Business and Communication,2
+Informatics,Hard,Other,2
+Biomedical Engineering,Hard,Other,2
+Autonomous System,Hard,Other,2
+Intelligent Systems,Hard,Other,2
+Electronic Design Automation,Hard,Other,2
+Web Applications,Hard,Programming Languages,2
+Contextual Image Classification,Hard,Machine Learning Algorithms/Models,2
+Apache Oozie,Hard,Tools and Libraries,2
+Ruby (Programming Language),Hard,Programming Languages,2
+Information Privacy,Hard,Business and Communication,2
+Data Transmissions,Hard,Data Management,2
+Physical Science,Hard,Other,2
+Shiny (R Package),Hard,Data Analytics & Visualization,2
+ArcGIS (GIS Software),Hard,Data Analytics & Visualization,2
+Business To Business,Hard,Business and Communication,2
+Quantum GIS (QGIS),Hard,Data Analytics & Visualization,2
+Pharmaceuticals,Hard,Other,2
+Business Software,Hard,Business and Communication,2
+MongoDB,Hard,Data Management,2
+Information Technology Operations,Hard,Other,2
+Reliability,Hard,Other,2
+Continuous Deployment,Hard,Other,2
+Geographic Information Systems,Hard,Data Analytics & Visualization,2
+Windows PowerShell,Hard,Programming Languages,2
+Apache Flume,Hard,Tools and Libraries,2
+Systems Engineering,Hard,Other,2
+Information Technology Architecture,Hard,Other,2
+Gerrit,Hard,Tools and Libraries,2
+Google Cloud Platform (GCP),Hard,Cloud and Infrastructure,2
+Enthusiasm,Soft,Business and Communication,2
+Apache Airflow,Hard,Tools and Libraries,2
+Software Design Patterns,Hard,Programming Languages,2
+Software Systems,Hard,Programming Languages,2
+Applied Research,Hard,Problem Solving and Research,2
+Compliance Reporting,Hard,Other,2
+Continuous Integration,Hard,Other,2
+Reengineering,Hard,Other,2
+Complex Problem Solving,Hard,Problem Solving and Research,2
+Data Cleansing,Hard,Data Management,2
+PostgreSQL,Hard,Data Management,2
+Azure Databricks,Hard,Cloud and Infrastructure,2
+Boosting,Hard,Machine Learning Algorithms/Models,2
+Functional Programming,Hard,Programming Languages,2
+Process Analysis,Hard,Problem Solving and Research,2
+Statistical Analysis,Hard,Mathematics and Statistics,2
+Database Management Systems,Hard,Data Management,2
+Timelines,Hard,Other,2
+Development Environment,Hard,Programming Languages,2
+Terraform,Hard,Cloud and Infrastructure,2
+Testability,Hard,Other,2
+Cloud Operations,Hard,Cloud and Infrastructure,2
+Ansible,Hard,Cloud and Infrastructure,2
+Progress Reporting,Hard,Business and Communication,2
+Test Planning,Hard,Other,2
+User Interface (UI),Hard,Programming Languages,2
+System Identification,Hard,Other,1
+Chemical Process,Hard,Other,1
+Software Quality (SQA/SQC),Hard,Other,1
+Supercomputing,Hard,Other,1
+Ideation,Soft,Problem Solving and Research,1
+Coherent Remote File System (CRFS),Hard,Other,1
+Healthcare Industry Knowledge,Hard,Business and Communication,1
+Disinfecting,Hard,Other,1
+Core Product,Hard,Other,1
+Flocculation,Hard,Other,1
+LESS,Hard,Programming Languages,1
+Business Valuation,Hard,Business and Communication,1
+.NET Framework,Hard,Programming Languages,1
+Relationship Building,Soft,Business and Communication,1
+Real World Data,Hard,Data Analytics & Visualization,1
+Recommender Systems,Hard,Machine Learning Algorithms/Models,1
+Mathematical Sciences,Hard,Mathematics and Statistics,1
+Product Management,Hard,Business and Communication,1
+Angular (Web Framework),Hard,Programming Languages,1
+OpenShift,Hard,Cloud and Infrastructure,1
+Asset Management,Hard,Business and Communication,1
+Mathematical Optimization,Hard,Mathematics and Statistics,1
+Coagulation,Hard,Other,1
+Electricity Generation,Hard,Other,1
+Hydraulics,Hard,Other,1
+Sedimentation,Hard,Other,1
+Filtration,Hard,Other,1
+Performance Analysis,Hard,Other,1
+Computing Platforms,Hard,Cloud and Infrastructure,1
+Data Validation,Hard,Data Management,1
+Business Metrics,Hard,Business and Communication,1
+Drilldown,Hard,Data Analytics & Visualization,1
+Medical Research,Hard,Other,1
+Business Administration,Hard,Business and Communication,1
+Satellite Imagery,Hard,Data Analytics & Visualization,1
+Amazon DynamoDB,Hard,Data Management,1
+Team Oriented,Soft,Business and Communication,1
+Udeploy,Hard,Cloud and Infrastructure,1
+Data Lakes,Hard,Data Management,1
+Water Quality,Hard,Other,1
+Wastewater,Hard,Other,1
+Emerging Technologies,Hard,Other,1
+Pattern Recognition,Hard,Machine Learning Algorithms/Models,1
+Natural Language Understanding,Hard,Machine Learning Algorithms/Models,1
+Technical Writing,Hard,Business and Communication,1
+Biostatistics,Hard,Mathematics and Statistics,1
+AWS Kinesis,Hard,Cloud and Infrastructure,1
+Water Treatment,Hard,Other,1
+User Interface (UI) Design,Hard,Programming Languages,1
+Epidemiology,Hard,Other,1
+Software Development Methodologies,Hard,Programming Languages,1
+Program Management,Hard,Business and Communication,1
+Document-Oriented Databases,Hard,Data Management,1
+Probability,Hard,Mathematics and Statistics,1
+Data Store,Hard,Data Management,1
+Business Development,Hard,Business and Communication,1
+Data Integration,Hard,Data Management,1
+Stochastic Modeling,Hard,Mathematics and Statistics,1
+Network Analysis,Hard,Data Analytics & Visualization,1
+Requirements Elicitation,Hard,Problem Solving and Research,1
+System Requirements,Hard,Other,1
+Applications Architecture,Hard,Other,1
+Azure Cosmos DB,Hard,Data Management,1
+Node.js (Javascript Library),Hard,Programming Languages,1
+Markov Chain,Hard,Mathematics and Statistics,1
+Registration,Hard,Business and Communication,1
+Persona (User Experience),Soft,Business and Communication,1
+Export Control,Hard,Other,1
+Digital Technology,Hard,Other,1
+Enterprise Application Software,Hard,Other,1
+ServiceNow,Hard,Other,1
+Ingenuity,Soft,Other,1
+Jersey (Java Framework),Hard,Programming Languages,1
+Intelligence Analysis,Hard,Other,1
+Loans,Hard,Other,1
+Mortgage Loans,Hard,Other,1
+Design Strategies,Soft,Other,1
+SQLAlchemy,Hard,Data Management,1
+Optimism,Soft,Other,1
+Web Platforms,Hard,Other,1
+Rspec,Hard,Tools and Libraries,1
+Integration Testing,Hard,Tools and Libraries,1
+Model View Controller,Hard,Programming Languages,1
+Time Series Analysis And Forecasting,Hard,Data Analytics & Visualization,1
+Variational Autoencoders,Hard,Machine Learning Algorithms/Models,1
+Thought Leadership,Soft,Business and Communication,1
+Analytical Techniques,Hard,Data Analytics & Visualization,1
+Hybrid Cloud Computing,Hard,Cloud and Infrastructure,1
+Job Scheduling (Inventory Management),Hard,Other,1
+Data Hub,Hard,Data Management,1
+Technical Leadership,Hard,Business and Communication,1
+Azure DevOps,Hard,Cloud and Infrastructure,1
+Proactivity,Soft,Business and Communication,1
+Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),Hard,Other,1
+Xgboost,Hard,Machine Learning Algorithms/Models,1
+Call Recording,Hard,Other,1
+Scientific Methods,Hard,Problem Solving and Research,1
+Predictive Analytics,Hard,Data Analytics & Visualization,1
+Generative Adversarial Networks,Hard,Machine Learning Algorithms/Models,1
+Cloud Technologies,Hard,Cloud and Infrastructure,1
+Excel Formulas,Hard,Data Analytics & Visualization,1
+Technical Training,Hard,Business and Communication,1
+Informatica,Hard,Data Management,1
+Fast.ai,Hard,Machine Learning Algorithms/Models,1
+D3.js (Javascript Library),Hard,Data Analytics & Visualization,1
+Servant Leadership,Soft,Business and Communication,1
+Anomaly Detection,Hard,Machine Learning Algorithms/Models,1
+Trustworthiness,Soft,Business and Communication,1
+Sales Process,Hard,Other,1
+Infrastructure As A Service (IaaS),Hard,Cloud and Infrastructure,1
+Business Presentations,Soft,Business and Communication,1
+Decision Tree Learning,Hard,Machine Learning Algorithms/Models,1
+Project Implementation,Hard,Business and Communication,1
+Multivariate Testing,Hard,Data Analytics & Visualization,1
+Product Analytics,Hard,Data Analytics & Visualization,1
+Multivariate Analysis,Hard,Data Analytics & Visualization,1
+Deficits,Hard,Other,1
+Supervised Learning,Hard,Machine Learning Algorithms/Models,1
+Technical Acumen,Hard,Problem Solving and Research,1
+Team Management,Hard,Business and Communication,1
+Capital Markets,Hard,Other,1
+Requirement Prioritization,Hard,Business and Communication,1
+On Prem,Hard,Cloud and Infrastructure,1
+Project Planning,Hard,Business and Communication,1
+Networking Hardware,Hard,Cloud and Infrastructure,1
+Video Analytics,Hard,Data Analytics & Visualization,1
+Disease Prevention,Hard,Other,1
+Auditing,Hard,Business and Communication,1
+Descriptive Analytics,Hard,Data Analytics & Visualization,1
+Financial Modeling,Hard,Data Analytics & Visualization,1
+Organizational Performance,Hard,Business and Communication,1
+Product Design,Hard,Other,1
+Prompt Engineering,Hard,Other,1
+Ruby On Rails,Hard,Programming Languages,1
+Azure Machine Learning,Hard,Cloud and Infrastructure,1
+Oil And Gas,Hard,Other,1
+Advocacy,Soft,Business and Communication,1
+Field-Programmable Gate Array (FPGA),Hard,Other,1
+JIRA,Hard,Other,1
+Linear Algebra Package (LAPACK),Hard,Mathematics and Statistics,1
+Exploratory Data Analysis,Hard,Data Analytics & Visualization,1
+Secret Clearance,Hard,Other,1
+Robotic Systems,Hard,Other,1
+System On A Chip,Hard,Other,1
+Customer Service,Soft,Business and Communication,1
+Distributed File Systems,Hard,Cloud and Infrastructure,1
+Product Strategy,Hard,Other,1
+Computational Statistics,Hard,Mathematics and Statistics,1
+Control-M (Batch Scheduling Software),Hard,Tools and Libraries,1
+GraphQL,Hard,Programming Languages,1
+Machinery,Hard,Other,1
+Avalara (Tax Software),Hard,Tools and Libraries,1
+Wearables,Hard,Other,1
+Dimensionality Reduction,Hard,Machine Learning Algorithms/Models,1
+Response Models,Hard,Machine Learning Algorithms/Models,1
+Life Sciences,Hard,Other,1
+Network Sockets,Hard,Cloud and Infrastructure,1
+Grafana,Hard,Tools and Libraries,1
+Opensearch,Hard,Tools and Libraries,1
+Intellectual Curiosity,Soft,Other,1
+IPv4,Hard,Cloud and Infrastructure,1
+Real Time Data,Hard,Data Analytics & Visualization,1
+Product Engineering,Hard,Other,1
+Observability,Hard,Cloud and Infrastructure,1
+Erlang,Hard,Programming Languages,1
+Infrastructure as Code (IaC),Hard,Cloud and Infrastructure,1
+Elixir (Programming Language),Hard,Programming Languages,1
+Door Hinges,Hard,Other,1
+Cloud Hosting,Hard,Cloud and Infrastructure,1
+IPv6,Hard,Cloud and Infrastructure,1
+Toolchain,Hard,Programming Languages,1
+Open Neural Network Exchange (ONNX),Hard,Tools and Libraries,1
+Statistical Learning Theory,Hard,Mathematics and Statistics,1
+Database Connection,Hard,Data Management,1
+Marketing Mix Modeling,Hard,Data Analytics & Visualization,1
+Software As A Service (SaaS),Hard,Cloud and Infrastructure,1
+Construction Management,Hard,Other,1
+Small-Unmanned Aerial Systems (S-UAS),Hard,Other,1
+Resourcefulness,Soft,Problem Solving and Research,1
+Cartographic Design,Hard,Data Analytics & Visualization,1
+Environmental Permitting,Hard,Other,1
+Spatial Data Infrastructures,Hard,Data Management,1
+Higher Education,Hard,Other,1
+Management Information Systems,Hard,Other,1
+Direct-to-Consumer (DTC),Hard,Other,1
+Digital Data,Hard,Data Management,1
+Object-Relational Mapping,Hard,Data Management,1
+Process Improvement,Hard,Business and Communication,1
+Strategic Planning,Hard,Business and Communication,1
+Virtual Learning Environments,Hard,Business and Communication,1
+Microservices,Hard,Programming Languages,1
+Microsoft PowerPoint,Hard,Business and Communication,1
+A/B Testing,Hard,Data Analytics & Visualization,1
+Microsoft Access,Hard,Data Management,1
+Technical Debt,Soft,Business and Communication,1
+Spatial Abilities,Soft,Problem Solving and Research,1
+Valid Driver's License,Hard,Other,1
+Unmanned Aerial Vehicle,Hard,Other,1
+Video Game Development,Hard,Programming Languages,1
+Coaching,Soft,Business and Communication,1
+Software Versioning,Hard,Programming Languages,1
+Recurrent Neural Network (RNN),Hard,Machine Learning Algorithms/Models,1
+Data Strategy,Hard,Data Management,1
+Hadoop Distributed File System (HDFS),Hard,Data Management,1
+Query Languages,Hard,Data Management,1
+Systems Architecture,Hard,Cloud and Infrastructure,1
+Chatbot,Hard,Other,1
+Dialogflow (Google Service),Hard,Other,1
+Amazon Lex,Hard,Other,1
+Applied Statistics,Hard,Mathematics and Statistics,1
+Digital Transformation,Hard,Business and Communication,1
+Teradata SQL,Hard,Data Management,1
+Apache Parquet,Hard,Data Management,1
+Job/Batch Scheduling,Hard,Other,1
+Engineering Plans And Specifications,Hard,Other,1
+Apache Avro,Hard,Data Management,1
+Ansi Sql,Hard,Data Management,1
+Technical Design,Hard,Business and Communication,1
+Unreal Engine,Hard,Programming Languages,1
+Ad Hoc Analysis,Hard,Data Analytics & Visualization,1
+Wetland Restoration,Hard,Other,1
+Sensor Fusion,Hard,Other,1
+Mobile Phones,Hard,Other,1
+Lifelong Learning,Soft,Other,1
+Graph Algorithms,Hard,Other,1
+Journals,Hard,Other,1
+National Environmental Policy Act,Hard,Other,1
+Hydraulic Engineering,Hard,Other,1
+Regulatory Compliance,Hard,Business and Communication,1
+Geospatial Data Abstraction Library (GDAL),Hard,Data Management,1
+Epic EMR,Hard,Other,1
+Environmental Studies,Hard,Other,1
+Ecological Restoration,Hard,Other,1
+Environmental Planning,Hard,Other,1
+Health Reimbursement Arrangement,Hard,Other,1
+Postman API Platform,Hard,Tools and Libraries,1
+Online Service Provider,Hard,Other,1
+Web Services,Hard,Other,1
+Architectural Design,Hard,Other,1
+Geospatial Analysis,Hard,Data Analytics & Visualization,1
+Environmental Social And Corporate Governance (ESG),Hard,Other,1
+Tax Compliance,Hard,Business and Communication,1
+Word2Vec Models,Hard,Machine Learning Algorithms/Models,1
+Clinical Trials,Hard,Other,1
+Network Routing,Hard,Networking,1
+Bash (Scripting Language),Hard,Programming Languages,1
+Drug Development,Hard,Other,1
+Julia (Programming Language),Hard,Programming Languages,1
+Therapeutic Modalities,Hard,Other,1
+Firewall,Hard,Cloud and Infrastructure,1
+Data Preprocessing,Hard,Data Analytics & Visualization,1
+Biomedical Informatics,Hard,Other,1
+Electronic Lab Notebook,Hard,Other,1
+Genetics,Hard,Other,1
+Operational Excellence,Hard,Business and Communication,1
+Relation Extraction,Hard,Machine Learning Algorithms/Models,1
+Computational Linguistics,Hard,Other,1
+Open-Source Software,Hard,Other,1
+Scientific Literature,Hard,Problem Solving and Research,1
+Software Coding,Hard,Programming Languages,1
+Part-of-Speech Tagging,Hard,Machine Learning Algorithms/Models,1
+Image Segmentation,Hard,Data Analytics & Visualization,1
+Statistical Software,Hard,Tools and Libraries,1
+PHP (Scripting Language),Hard,Programming Languages,1
+Product Knowledge,Soft,Other,1
+OpenMP,Hard,Programming Languages,1
+Amazon Redshift,Hard,Data Management,1
+Cross-Functional Collaboration,Soft,Business and Communication,1
+BigQuery,Hard,Data Management,1
+Ping (Networking Utility),Hard,Other,1
+Project Coordination,Soft,Business and Communication,1
+Digital Signal Processing,Hard,Other,1
+High Performance Computing,Hard,Other,1
+OpenCL,Hard,Programming Languages,1
+General-Purpose Computing On Graphics Processing Units,Hard,Other,1
+Product Leadership,Soft,Business and Communication,1
+Message Passing Interface,Hard,Other,1
+Molecular Biology,Hard,Other,1
+Experimental Data,Hard,Data Analytics & Visualization,1
+Medical Devices,Hard,Other,1
+Quick Learning,Soft,Other,1
+Data Normalization,Hard,Data Management,1
+Vertica,Hard,Data Management,1
+Statistical Hypothesis Testing,Hard,Mathematics and Statistics,1
+Latent Semantic Indexing,Hard,Machine Learning Algorithms/Models,1
+Topic Modeling,Hard,Machine Learning Algorithms/Models,1
+Energetic,Soft,Other,1
+Named Entity Recognition,Hard,Machine Learning Algorithms/Models,1
+Marine Science,Hard,Other,1
+Employee Assistance Programs,Soft,Other,1
+Systems Development Life Cycle,Hard,Other,1
+Coordinating,Soft,Business and Communication,1
+Data Collection,Hard,Data Management,1
+Construction,Hard,Other,1
+Governance,Hard,Other,1
+Unmanned Aerial Systems (UAS),Hard,Other,1
+Social Sciences,Hard,Other,1
+Geography,Hard,Other,1
+Pilot Licensing And Certification,Hard,Other,1
+ArcGIS Survey123,Hard,Data Analytics & Visualization,1
+Disaster Recovery,Hard,Other,1
+Water Resources,Hard,Other,1
+ArcMap,Hard,Data Analytics & Visualization,1
+Organizational Architecture,Hard,Other,1
+Drone Pilot Certificate,Hard,Other,1
+Geospatial Mapping,Hard,Data Analytics & Visualization,1
+Microsoft Power Automate/Flow,Hard,Other,1
+Public Health,Hard,Other,1
+Regression Testing,Hard,Other,1
+Bayesian Modeling,Hard,Machine Learning Algorithms/Models,1
+Automated Machine Learning,Hard,Machine Learning Algorithms/Models,1
+Text Processing,Hard,Data Analytics & Visualization,1
+Streamlining,Hard,Business and Communication,1
+Containerization,Hard,Cloud and Infrastructure,1
+OpenAPI,Hard,Cloud and Infrastructure,1
+Critical Thinking,Soft,Problem Solving and Research,1
+Software Testing,Hard,Other,1
+AWS CloudFormation,Hard,Cloud and Infrastructure,1
+FastAPI,Hard,Programming Languages,1
+Medical Records,Hard,Data Management,1
+Technical Communication,Hard,Business and Communication,1
+Adaptability,Soft,Other,1
+Matplotlib (Python Package),Hard,Data Analytics & Visualization,1
+Revenue Cycle Management,Hard,Data Management,1
+Invoicing,Hard,Data Management,1
+Document Processing,Hard,Data Management,1
+Support Vector Machine,Hard,Machine Learning Algorithms/Models,1
+Production Code,Hard,Other,1
+Logistic Regression,Hard,Machine Learning Algorithms/Models,1
+Blogs,Soft,Other,1

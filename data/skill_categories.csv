@@ -1,0 +1,666 @@
+Skill,Category,Count
+Machine Learning,Machine Learning Algorithms/Models,47
+Python (Programming Language),Programming Languages,46
+Computer Science,Other,35
+Data Science,Data Analytics & Visualization,31
+Innovation,Business and Communication,29
+Communications,Business and Communication,29
+Deep Learning,Machine Learning Algorithms/Models,23
+Research,Problem Solving and Research,23
+Algorithms,Problem Solving and Research,21
+PyTorch (Machine Learning Library),Tools and Libraries,19
+Scalability,Other,19
+Amazon Web Services,Cloud and Infrastructure,19
+SQL (Programming Language),Data Management,18
+R (Programming Language),Programming Languages,18
+Mathematics,Mathematics and Statistics,17
+TensorFlow,Machine Learning Algorithms/Models,17
+Natural Language Processing,Machine Learning Algorithms/Models,16
+Writing,Business and Communication,14
+Data Analysis,Data Analytics & Visualization,13
+Scikit-Learn (Python Package),Tools and Libraries,12
+Application Programming Interface (API),Tools and Libraries,12
+Apache Spark,Cloud and Infrastructure,12
+Problem Solving,Problem Solving and Research,12
+DevOps,Cloud and Infrastructure,12
+Microsoft Azure,Cloud and Infrastructure,12
+Tableau (Business Intelligence Software),Data Analytics & Visualization,10
+Statistics,Mathematics and Statistics,10
+Detail Oriented,Other,10
+Software Engineering,Programming Languages,10
+MLOps (Machine Learning Operations),Other,9
+Java (Programming Language),Programming Languages,9
+Security Clearance,Other,9
+Docker (Software),Cloud and Infrastructure,9
+C++ (Programming Language),Programming Languages,9
+Linux,Other,9
+Git (Version Control System),Tools and Libraries,9
+Artificial Intelligence,Machine Learning Algorithms/Models,9
+CI/CD,Other,9
+Leadership,Business and Communication,8
+Data Pipelines,Data Management,8
+Kubernetes,Cloud and Infrastructure,8
+JavaScript (Programming Language),Programming Languages,8
+Management,Business and Communication,8
+Operations,Other,8
+Unstructured Data,Other,8
+Pandas (Python Package),Data Analytics & Visualization,8
+Automation,Other,8
+Large Language Modeling,Machine Learning Algorithms/Models,8
+Unit Testing,Programming Languages,8
+Cloud Computing,Cloud and Infrastructure,7
+Computer Vision,Machine Learning Algorithms/Models,7
+Self-Motivation,Business and Communication,7
+Agile Methodology,Other,7
+Debugging,Other,7
+Curiosity,Other,7
+C (Programming Language),Programming Languages,7
+Predictive Modeling,Machine Learning Algorithms/Models,7
+Extract Transform Load (ETL),Data Management,7
+Applied Mathematics,Mathematics and Statistics,7
+Software Development,Programming Languages,7
+Authorization (Computing),Other,6
+Nvidia CUDA,Tools and Libraries,6
+NumPy (Python Package),Tools and Libraries,6
+Keras (Neural Network Library),Tools and Libraries,6
+Statistical Modeling,Mathematics and Statistics,6
+Honesty,Business and Communication,6
+Advanced Analytics,Data Analytics & Visualization,6
+Version Control,Tools and Libraries,6
+Physics,Mathematics and Statistics,6
+Data Engineering,Data Management,6
+Generative Artificial Intelligence,Machine Learning Algorithms/Models,6
+Dashboard,Data Analytics & Visualization,6
+Relational Databases,Data Management,6
+Operations Research,Mathematics and Statistics,6
+Presentations,Business and Communication,6
+Jenkins,Tools and Libraries,6
+Machine Learning Algorithms,Machine Learning Algorithms/Models,5
+Finance,Business and Communication,5
+English Language,Business and Communication,5
+Github,Tools and Libraries,5
+Troubleshooting (Problem Solving),Problem Solving and Research,5
+Data Warehousing,Data Management,5
+Marketing,Business and Communication,5
+NoSQL,Data Management,5
+Planning,Other,5
+Electrical Engineering,Other,5
+React.js (Javascript Library),Programming Languages,5
+Artificial Neural Networks,Machine Learning Algorithms/Models,5
+Investigation,Problem Solving and Research,5
+Decision Making,Other,5
+Computer Engineering,Other,5
+Big Data,Data Management,5
+Apache Hadoop,Cloud and Infrastructure,5
+Business Requirements,Business and Communication,5
+Technology Solutions,Other,5
+Apache Hive,Data Management,5
+Technical Documentation,Business and Communication,5
+Computer Architecture,Other,5
+Consulting,Business and Communication,5
+Data Visualization,Data Analytics & Visualization,5
+Chemistry,Other,5
+Perl (Programming Language),Programming Languages,4
+Systems Analysis,Data Management,4
+Simulations,Other,4
+Financial Services,Business and Communication,4
+Code Review,Programming Languages,4
+Feature Engineering,Data Analytics & Visualization,4
+Environmental Science,Other,4
+Project Management,Business and Communication,4
+Teamwork,Business and Communication,4
+RESTful API,Tools and Libraries,4
+Data Quality,Data Management,4
+Mentorship,Business and Communication,4
+Data-Driven Decision Making,Data Analytics & Visualization,4
+Disabilities,Other,4
+Collaboration,Business and Communication,4
+Verbal Communication Skills,Business and Communication,4
+Random Forest Algorithm,Machine Learning Algorithms/Models,4
+Data Modeling,Data Management,4
+Scripting,Programming Languages,4
+Data Management,Data Management,4
+Linear Algebra,Mathematics and Statistics,3
+Algorithm Design,Problem Solving and Research,3
+Performance Modeling,Mathematics and Statistics,3
+Ethical Standards And Conduct,Other,3
+Virtual Teams,Business and Communication,3
+Feature Selection,Problem Solving and Research,3
+Investments,Business and Communication,3
+Scheduling,Other,3
+Mental Health,Other,3
+Prescriptive Analytics,Data Analytics & Visualization,3
+Prioritization,Other,3
+Autism Spectrum Disorders,Other,3
+Diabetes Mellitus,Other,3
+Chronic Diseases,Other,3
+Causal Inference,Problem Solving and Research,3
+Knowledge Graph,Data Analytics & Visualization,3
+Digital Electronics,Other,3
+Data Mining,Data Management,3
+Engineering Management,Other,3
+Influencing Skills,Business and Communication,3
+Distributed Computing,Cloud and Infrastructure,3
+Knowledge Transfer,Business and Communication,3
+Creative Thinking,Other,3
+SAS (Software),Tools and Libraries,3
+Django (Web Framework),Tools and Libraries,3
+Analytics,Data Analytics & Visualization,3
+Power BI,Data Analytics & Visualization,3
+Flask (Web Framework),Tools and Libraries,3
+Data Processing,Data Management,3
+Sales,Business and Communication,3
+Databricks,Cloud and Infrastructure,3
+Continuous Improvement Process,Other,3
+Hugging Face (NLP Framework),Tools and Libraries,3
+New Product Development,Other,3
+SpaCy (NLP Software),Tools and Libraries,3
+Digital Image Processing,Other,3
+Go (Programming Language),Programming Languages,3
+Operating Systems,Other,3
+Object-Oriented Programming (OOP),Programming Languages,3
+MySQL,Data Management,3
+Quality Control,Other,3
+Cloud Services,Cloud and Infrastructure,3
+Signal Processing,Other,3
+Mechanical Engineering,Other,3
+HyperText Markup Language (HTML),Programming Languages,3
+Unsupervised Learning,Machine Learning Algorithms/Models,3
+Analytical Skills,Other,3
+Remote Sensing,Other,3
+Elasticsearch,Data Management,3
+Data Infrastructure,Data Management,3
+Scala (Programming Language),Programming Languages,3
+Text Mining,Data Analytics & Visualization,3
+Business Intelligence,Data Analytics & Visualization,3
+Information Technology,Other,3
+Shell Script,Programming Languages,3
+Data Structures,Programming Languages,3
+Sqoop,Data Management,3
+Biotechnology,Other,3
+Biology,Other,3
+Quantitative Analysis,Mathematics and Statistics,3
+Bitbucket,Tools and Libraries,3
+Cascading Style Sheets (CSS),Programming Languages,3
+Post Traumatic Stress Disorder,Other,3
+Reinforcement Learning,Machine Learning Algorithms/Models,3
+Unix,Other,2
+Kubeflow,Cloud and Infrastructure,2
+Water Distribution,Other,2
+Markdown,Tools and Libraries,2
+Water Supply Networks,Other,2
+LaTeX,Tools and Libraries,2
+Pyspark,Tools and Libraries,2
+Linear Regression,Machine Learning Algorithms/Models,2
+Machine Learning Methods,Machine Learning Algorithms/Models,2
+User Experience (UX),Other,2
+Cloud Infrastructure,Cloud and Infrastructure,2
+Application Performance Management,Other,2
+Numerical Analysis,Mathematics and Statistics,2
+MATLAB,Programming Languages,2
+Full Stack Development,Programming Languages,2
+Global Management,Business and Communication,2
+Microbiology,Biological Process,2
+Amazon S3,Cloud and Infrastructure,2
+Genomics,Bioinformatics,2
+Bioinformatics,Bioinformatics,2
+Caffe2,Machine Learning Algorithms/Models,2
+Apache Solr,Tools and Libraries,2
+Apache OpenNLP,Tools and Libraries,2
+Building Services Engineering,Other,2
+AWS SageMaker,Machine Learning Algorithms/Models,2
+Data Extraction,Data Management,2
+Object Detection,Machine Learning Algorithms/Models,2
+Machine Learning Model Training,Machine Learning Algorithms/Models,2
+Probability Theories,Mathematics and Statistics,2
+Image Recognition,Machine Learning Algorithms/Models,2
+Multitasking,Other,2
+Workflow Automation,Other,2
+Quality Assurance,Other,2
+Equities,Other,2
+Software Design,Programming Languages,2
+Hibernate (Java),Programming Languages,2
+Lean Manufacturing,Business and Communication,2
+Prototyping,Problem Solving and Research,2
+Sewage Treatments,Other,2
+Environmental Technology,Other,2
+Willingness To Learn,Business and Communication,2
+Research Experiences,Problem Solving and Research,2
+Lifecycle Management,Business and Communication,2
+Smart Meter Systems,Other,2
+Digital Twin,Other,2
+Product Lifecycle Management,Other,2
+Public Utility,Other,2
+Development Testing,Other,2
+MLflow,Tools and Libraries,2
+Torch (Machine Learning),Machine Learning Algorithms/Models,2
+Project Stakeholders,Business and Communication,2
+BERT (NLP Model),Machine Learning Algorithms/Models,2
+Metadata,Data Management,2
+Medical Imaging,Other,2
+Neuroscience,Other,2
+Demonstration Skills,Business and Communication,2
+Code Of Federal Regulations,Business and Communication,2
+Environmental Issue,Other,2
+Data Curation,Data Management,2
+Project Scoping,Business and Communication,2
+Calculations,Mathematics and Statistics,2
+Investment Management,Business and Communication,2
+Information Retrieval,Data Analytics & Visualization,2
+Biological Process,Biological Process,2
+Apache MXNet,Machine Learning Algorithms/Models,2
+Environmental Risk Assessment,Other,2
+Chemical Safety,Other,2
+Interpersonal Communications,Business and Communication,2
+Serverless Computing,Cloud and Infrastructure,2
+Creative Problem Solving,Problem Solving and Research,2
+Student Services,Business and Communication,2
+Computational Tools,Tools and Libraries,2
+Question Answering,Machine Learning Algorithms/Models,2
+Independent Thinking,Problem Solving and Research,2
+Portfolio Management,Business and Communication,2
+Visionary,Business and Communication,2
+Functional Requirement,Other,2
+Proposal Writing,Business and Communication,2
+Computational Neuroscience,Other,2
+Gensim (NLP Software),Tools and Libraries,2
+JanusGraph,Tools and Libraries,2
+LexisNexis,Tools and Libraries,2
+Smart Device,Other,2
+Data Ingestion,Data Management,2
+Business Operations,Business and Communication,2
+Data Transformation,Data Management,2
+Data Manipulation,Data Management,2
+Microsoft Excel,Data Analytics & Visualization,2
+Technology Ecosystems,Other,2
+Process Modeling,Problem Solving and Research,2
+Toxicology,Other,2
+Manufacturing Automation,Other,2
+Environmental Monitoring,Other,2
+Pharmaceutical Sciences,Other,2
+Fact Sheets,Business and Communication,2
+Informatics,Other,2
+Biomedical Engineering,Other,2
+Autonomous System,Other,2
+Intelligent Systems,Other,2
+Electronic Design Automation,Other,2
+Web Applications,Programming Languages,2
+Contextual Image Classification,Machine Learning Algorithms/Models,2
+Apache Oozie,Tools and Libraries,2
+Ruby (Programming Language),Programming Languages,2
+Information Privacy,Business and Communication,2
+Data Transmissions,Data Management,2
+Physical Science,Other,2
+Shiny (R Package),Data Analytics & Visualization,2
+ArcGIS (GIS Software),Data Analytics & Visualization,2
+Business To Business,Business and Communication,2
+Quantum GIS (QGIS),Data Analytics & Visualization,2
+Pharmaceuticals,Other,2
+Business Software,Business and Communication,2
+MongoDB,Data Management,2
+Information Technology Operations,Other,2
+Reliability,Other,2
+Continuous Deployment,Other,2
+Geographic Information Systems,Data Analytics & Visualization,2
+Windows PowerShell,Programming Languages,2
+Apache Flume,Tools and Libraries,2
+Systems Engineering,Other,2
+Information Technology Architecture,Other,2
+Gerrit,Tools and Libraries,2
+Google Cloud Platform (GCP),Cloud and Infrastructure,2
+Enthusiasm,Business and Communication,2
+Apache Airflow,Tools and Libraries,2
+Software Design Patterns,Programming Languages,2
+Software Systems,Programming Languages,2
+Applied Research,Problem Solving and Research,2
+Compliance Reporting,Other,2
+Continuous Integration,Other,2
+Reengineering,Other,2
+Complex Problem Solving,Problem Solving and Research,2
+Data Cleansing,Data Management,2
+PostgreSQL,Data Management,2
+Azure Databricks,Cloud and Infrastructure,2
+Boosting,Machine Learning Algorithms/Models,2
+Functional Programming,Programming Languages,2
+Process Analysis,Problem Solving and Research,2
+Statistical Analysis,Mathematics and Statistics,2
+Database Management Systems,Data Management,2
+Timelines,Other,2
+Development Environment,Programming Languages,2
+Terraform,Cloud and Infrastructure,2
+Testability,Other,2
+Cloud Operations,Cloud and Infrastructure,2
+Ansible,Cloud and Infrastructure,2
+Progress Reporting,Business and Communication,2
+Test Planning,Other,2
+User Interface (UI),Programming Languages,2
+System Identification,Other,1
+Chemical Process,Other,1
+Software Quality (SQA/SQC),Other,1
+Supercomputing,Other,1
+Ideation,Problem Solving and Research,1
+Coherent Remote File System (CRFS),Other,1
+Healthcare Industry Knowledge,Business and Communication,1
+Disinfecting,Other,1
+Core Product,Other,1
+Flocculation,Other,1
+LESS,Programming Languages,1
+Business Valuation,Business and Communication,1
+.NET Framework,Programming Languages,1
+Relationship Building,Business and Communication,1
+Real World Data,Data Analytics & Visualization,1
+Recommender Systems,Machine Learning Algorithms/Models,1
+Mathematical Sciences,Mathematics and Statistics,1
+Product Management,Business and Communication,1
+Angular (Web Framework),Programming Languages,1
+OpenShift,Cloud and Infrastructure,1
+Asset Management,Business and Communication,1
+Mathematical Optimization,Mathematics and Statistics,1
+Coagulation,Other,1
+Electricity Generation,Other,1
+Hydraulics,Other,1
+Sedimentation,Other,1
+Filtration,Other,1
+Performance Analysis,Other,1
+Computing Platforms,Cloud and Infrastructure,1
+Data Validation,Data Management,1
+Business Metrics,Business and Communication,1
+Drilldown,Data Analytics & Visualization,1
+Medical Research,Other,1
+Business Administration,Business and Communication,1
+Satellite Imagery,Data Analytics & Visualization,1
+Amazon DynamoDB,Data Management,1
+Team Oriented,Business and Communication,1
+Udeploy,Cloud and Infrastructure,1
+Data Lakes,Data Management,1
+Water Quality,Other,1
+Wastewater,Other,1
+Emerging Technologies,Other,1
+Pattern Recognition,Machine Learning Algorithms/Models,1
+Natural Language Understanding,Machine Learning Algorithms/Models,1
+Technical Writing,Business and Communication,1
+Biostatistics,Mathematics and Statistics,1
+AWS Kinesis,Cloud and Infrastructure,1
+Water Treatment,Other,1
+User Interface (UI) Design,Programming Languages,1
+Epidemiology,Other,1
+Software Development Methodologies,Programming Languages,1
+Program Management,Business and Communication,1
+Document-Oriented Databases,Data Management,1
+Probability,Mathematics and Statistics,1
+Data Store,Data Management,1
+Business Development,Business and Communication,1
+Data Integration,Data Management,1
+Stochastic Modeling,Mathematics and Statistics,1
+Network Analysis,Data Analytics & Visualization,1
+Requirements Elicitation,Problem Solving and Research,1
+System Requirements,Other,1
+Applications Architecture,Other,1
+Azure Cosmos DB,Data Management,1
+Node.js (Javascript Library),Programming Languages,1
+Markov Chain,Mathematics and Statistics,1
+Registration,Business and Communication,1
+Persona (User Experience),Business and Communication,1
+Export Control,Other,1
+Digital Technology,Other,1
+Enterprise Application Software,Other,1
+ServiceNow,Other,1
+Ingenuity,Other,1
+Jersey (Java Framework),Programming Languages,1
+Intelligence Analysis,Other,1
+Loans,Other,1
+Mortgage Loans,Other,1
+Design Strategies,Other,1
+SQLAlchemy,Data Management,1
+Optimism,Other,1
+Web Platforms,Other,1
+Rspec,Tools and Libraries,1
+Integration Testing,Tools and Libraries,1
+Model View Controller,Programming Languages,1
+Time Series Analysis And Forecasting,Data Analytics & Visualization,1
+Variational Autoencoders,Machine Learning Algorithms/Models,1
+Thought Leadership,Business and Communication,1
+Analytical Techniques,Data Analytics & Visualization,1
+Hybrid Cloud Computing,Cloud and Infrastructure,1
+Job Scheduling (Inventory Management),Other,1
+Data Hub,Data Management,1
+Technical Leadership,Business and Communication,1
+Azure DevOps,Cloud and Infrastructure,1
+Proactivity,Business and Communication,1
+Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),Other,1
+Xgboost,Machine Learning Algorithms/Models,1
+Call Recording,Other,1
+Scientific Methods,Problem Solving and Research,1
+Predictive Analytics,Data Analytics & Visualization,1
+Generative Adversarial Networks,Machine Learning Algorithms/Models,1
+Cloud Technologies,Cloud and Infrastructure,1
+Excel Formulas,Data Analytics & Visualization,1
+Technical Training,Business and Communication,1
+Informatica,Data Management,1
+Fast.ai,Machine Learning Algorithms/Models,1
+D3.js (Javascript Library),Data Analytics & Visualization,1
+Servant Leadership,Business and Communication,1
+Anomaly Detection,Machine Learning Algorithms/Models,1
+Trustworthiness,Business and Communication,1
+Sales Process,Other,1
+Infrastructure As A Service (IaaS),Cloud and Infrastructure,1
+Business Presentations,Business and Communication,1
+Decision Tree Learning,Machine Learning Algorithms/Models,1
+Project Implementation,Business and Communication,1
+Multivariate Testing,Data Analytics & Visualization,1
+Product Analytics,Data Analytics & Visualization,1
+Multivariate Analysis,Data Analytics & Visualization,1
+Deficits,Other,1
+Supervised Learning,Machine Learning Algorithms/Models,1
+Technical Acumen,Problem Solving and Research,1
+Team Management,Business and Communication,1
+Capital Markets,Other,1
+Requirement Prioritization,Business and Communication,1
+On Prem,Cloud and Infrastructure,1
+Project Planning,Business and Communication,1
+Networking Hardware,Cloud and Infrastructure,1
+Video Analytics,Data Analytics & Visualization,1
+Disease Prevention,Other,1
+Auditing,Business and Communication,1
+Descriptive Analytics,Data Analytics & Visualization,1
+Financial Modeling,Data Analytics & Visualization,1
+Organizational Performance,Business and Communication,1
+Product Design,Other,1
+Prompt Engineering,Other,1
+Ruby On Rails,Programming Languages,1
+Azure Machine Learning,Cloud and Infrastructure,1
+Oil And Gas,Other,1
+Advocacy,Business and Communication,1
+Field-Programmable Gate Array (FPGA),Other,1
+JIRA,Other,1
+Linear Algebra Package (LAPACK),Mathematics and Statistics,1
+Exploratory Data Analysis,Data Analytics & Visualization,1
+Secret Clearance,Other,1
+Robotic Systems,Other,1
+System On A Chip,Other,1
+Customer Service,Business and Communication,1
+Distributed File Systems,Cloud and Infrastructure,1
+Product Strategy,Other,1
+Computational Statistics,Mathematics and Statistics,1
+Control-M (Batch Scheduling Software),Tools and Libraries,1
+GraphQL,Programming Languages,1
+Machinery,Other,1
+Avalara (Tax Software),Tools and Libraries,1
+Wearables,Other,1
+Dimensionality Reduction,Machine Learning Algorithms/Models,1
+Response Models,Machine Learning Algorithms/Models,1
+Life Sciences,Other,1
+Network Sockets,Cloud and Infrastructure,1
+Grafana,Tools and Libraries,1
+Opensearch,Tools and Libraries,1
+Intellectual Curiosity,Other,1
+IPv4,Cloud and Infrastructure,1
+Real Time Data,Data Analytics & Visualization,1
+Product Engineering,Other,1
+Observability,Cloud and Infrastructure,1
+Erlang,Programming Languages,1
+Infrastructure as Code (IaC),Cloud and Infrastructure,1
+Elixir (Programming Language),Programming Languages,1
+Door Hinges,Other,1
+Cloud Hosting,Cloud and Infrastructure,1
+IPv6,Cloud and Infrastructure,1
+Toolchain,Programming Languages,1
+Open Neural Network Exchange (ONNX),Tools and Libraries,1
+Statistical Learning Theory,Mathematics and Statistics,1
+Database Connection,Data Management,1
+Marketing Mix Modeling,Data Analytics & Visualization,1
+Software As A Service (SaaS),Cloud and Infrastructure,1
+Construction Management,Other,1
+Small-Unmanned Aerial Systems (S-UAS),Other,1
+Resourcefulness,Problem Solving and Research,1
+Cartographic Design,Data Analytics & Visualization,1
+Environmental Permitting,Other,1
+Spatial Data Infrastructures,Data Management,1
+Higher Education,Other,1
+Management Information Systems,Other,1
+Direct-to-Consumer (DTC),Other,1
+Digital Data,Data Management,1
+Object-Relational Mapping,Data Management,1
+Process Improvement,Business and Communication,1
+Strategic Planning,Business and Communication,1
+Virtual Learning Environments,Business and Communication,1
+Microservices,Programming Languages,1
+Microsoft PowerPoint,Business and Communication,1
+A/B Testing,Data Analytics & Visualization,1
+Microsoft Access,Data Management,1
+Technical Debt,Business and Communication,1
+Spatial Abilities,Problem Solving and Research,1
+Valid Driver's License,Other,1
+Unmanned Aerial Vehicle,Other,1
+Video Game Development,Programming Languages,1
+Coaching,Business and Communication,1
+Software Versioning,Programming Languages,1
+Recurrent Neural Network (RNN),Machine Learning Algorithms/Models,1
+Data Strategy,Data Management,1
+Hadoop Distributed File System (HDFS),Data Management,1
+Query Languages,Data Management,1
+Systems Architecture,Cloud and Infrastructure,1
+Chatbot,Other,1
+Dialogflow (Google Service),Other,1
+Amazon Lex,Other,1
+Applied Statistics,Mathematics and Statistics,1
+Digital Transformation,Business and Communication,1
+Teradata SQL,Data Management,1
+Apache Parquet,Data Management,1
+Job/Batch Scheduling,Other,1
+Engineering Plans And Specifications,Other,1
+Apache Avro,Data Management,1
+Ansi Sql,Data Management,1
+Technical Design,Business and Communication,1
+Unreal Engine,Programming Languages,1
+Ad Hoc Analysis,Data Analytics & Visualization,1
+Wetland Restoration,Other,1
+Sensor Fusion,Other,1
+Mobile Phones,Other,1
+Lifelong Learning,Other,1
+Graph Algorithms,Other,1
+Journals,Other,1
+National Environmental Policy Act,Other,1
+Hydraulic Engineering,Other,1
+Regulatory Compliance,Business and Communication,1
+Geospatial Data Abstraction Library (GDAL),Data Management,1
+Epic EMR,Other,1
+Environmental Studies,Other,1
+Ecological Restoration,Other,1
+Environmental Planning,Other,1
+Health Reimbursement Arrangement,Other,1
+Postman API Platform,Tools and Libraries,1
+Online Service Provider,Other,1
+Web Services,Other,1
+Architectural Design,Other,1
+Geospatial Analysis,Data Analytics & Visualization,1
+Environmental Social And Corporate Governance (ESG),Other,1
+Tax Compliance,Business and Communication,1
+Word2Vec Models,Machine Learning Algorithms/Models,1
+Clinical Trials,Other,1
+Network Routing,Networking,1
+Bash (Scripting Language),Programming Languages,1
+Drug Development,Other,1
+Julia (Programming Language),Programming Languages,1
+Therapeutic Modalities,Other,1
+Firewall,Cloud and Infrastructure,1
+Data Preprocessing,Data Analytics & Visualization,1
+Biomedical Informatics,Other,1
+Electronic Lab Notebook,Other,1
+Genetics,Other,1
+Operational Excellence,Business and Communication,1
+Relation Extraction,Machine Learning Algorithms/Models,1
+Computational Linguistics,Other,1
+Open-Source Software,Other,1
+Scientific Literature,Problem Solving and Research,1
+Software Coding,Programming Languages,1
+Part-of-Speech Tagging,Machine Learning Algorithms/Models,1
+Image Segmentation,Data Analytics & Visualization,1
+Statistical Software,Tools and Libraries,1
+PHP (Scripting Language),Programming Languages,1
+Product Knowledge,Other,1
+OpenMP,Programming Languages,1
+Amazon Redshift,Data Management,1
+Cross-Functional Collaboration,Business and Communication,1
+BigQuery,Data Management,1
+Ping (Networking Utility),Other,1
+Project Coordination,Business and Communication,1
+Digital Signal Processing,Other,1
+High Performance Computing,Other,1
+OpenCL,Programming Languages,1
+General-Purpose Computing On Graphics Processing Units,Other,1
+Product Leadership,Business and Communication,1
+Message Passing Interface,Other,1
+Molecular Biology,Other,1
+Experimental Data,Data Analytics & Visualization,1
+Medical Devices,Other,1
+Quick Learning,Other,1
+Data Normalization,Data Management,1
+Vertica,Data Management,1
+Statistical Hypothesis Testing,Mathematics and Statistics,1
+Latent Semantic Indexing,Machine Learning Algorithms/Models,1
+Topic Modeling,Machine Learning Algorithms/Models,1
+Energetic,Other,1
+Named Entity Recognition,Machine Learning Algorithms/Models,1
+Marine Science,Other,1
+Employee Assistance Programs,Other,1
+Systems Development Life Cycle,Other,1
+Coordinating,Business and Communication,1
+Data Collection,Data Management,1
+Construction,Other,1
+Governance,Other,1
+Unmanned Aerial Systems (UAS),Other,1
+Social Sciences,Other,1
+Geography,Other,1
+Pilot Licensing And Certification,Other,1
+ArcGIS Survey123,Data Analytics & Visualization,1
+Disaster Recovery,Other,1
+Water Resources,Other,1
+ArcMap,Data Analytics & Visualization,1
+Organizational Architecture,Other,1
+Drone Pilot Certificate,Other,1
+Geospatial Mapping,Data Analytics & Visualization,1
+Microsoft Power Automate/Flow,Other,1
+Public Health,Other,1
+Regression Testing,Other,1
+Bayesian Modeling,Machine Learning Algorithms/Models,1
+Automated Machine Learning,Machine Learning Algorithms/Models,1
+Text Processing,Data Analytics & Visualization,1
+Streamlining,Business and Communication,1
+Containerization,Cloud and Infrastructure,1
+OpenAPI,Cloud and Infrastructure,1
+Critical Thinking,Problem Solving and Research,1
+Software Testing,Other,1
+AWS CloudFormation,Cloud and Infrastructure,1
+FastAPI,Programming Languages,1
+Medical Records,Data Management,1
+Technical Communication,Business and Communication,1
+Adaptability,Other,1
+Matplotlib (Python Package),Data Analytics & Visualization,1
+Revenue Cycle Management,Data Management,1
+Invoicing,Data Management,1
+Document Processing,Data Management,1
+Support Vector Machine,Machine Learning Algorithms/Models,1
+Production Code,Other,1
+Logistic Regression,Machine Learning Algorithms/Models,1
+Blogs,Other,1
