@@ -30,7 +30,7 @@ def main():
     #skill_counts = extract_all_skills(CURATED_DATA_OUTPUT_FN, SKILL_COUNTS_OUTPUT_FN)
 
     visualize_skill_counts(SKILL_COUNTS_OUTPUT_FN, SKILL_COUNT_BARPLOT_FN)
-    visualize_hard_vs_soft(SKILL_COUNTS_OUTPUT_FN, SKILL_TYPE_PIECHART_FN)
+    #visualize_hard_vs_soft(SKILL_COUNTS_OUTPUT_FN, SKILL_TYPE_PIECHART_FN)
 
 
 if __name__ == '__main__':

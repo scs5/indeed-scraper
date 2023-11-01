@@ -1,8 +1,11 @@
 import requests
 import pandas as pd
+import os
+from dotenv import load_dotenv
 
-CLIENT_ID = 'YOUR_CLIENT_ID'
-CLIENT_SECRET = 'YOUR_SECRET'
+load_dotenv()
+CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 
 
 def get_authorization():
