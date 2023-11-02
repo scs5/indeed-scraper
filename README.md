@@ -51,9 +51,9 @@ Run `main.py`, uncommenting the functions you wish to call (scraping data, exctr
 
 ## Results
 ![counts](./figures/skill_counts.png)
-![types](./figures/skill_types.png)
-![categories](./figures/skill_categories.png)
 ![known](./figures/known_skills.png)
+![categories](./figures/skill_categories.png)
+![types](./figures/skill_types.png)
 
 ## Lessons Learned
 TODO
