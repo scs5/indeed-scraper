@@ -1,0 +1,51 @@
+Skill,Count,Known
+Python,46,Yes
+PyTorch,19,Kinda
+AWS,19,No
+SQL,18,Yes
+R,18,Yes
+TensorFlow,17,No
+NLP,16,Yes
+Scikit-Learn,12,Yes
+API,12,Yes
+Apache Spark,12,No
+DevOps,12,No
+Azure,12,No
+Tableau,10,No
+MLOps,9,No
+Java,9,Yes
+Docker,9,No
+C++,9,Yes
+Linux,9,Yes
+Git,9,Yes
+Kubernetes,8,No
+JavaScript,8,Kinda
+Pandas,8,Yes
+LLM,8,Kinda
+Unit Testing,8,Kinda
+Cloud Computing,7,No
+Computer Vision,7,Kinda
+Agile,7,Yes
+C,7,Kinda
+Predictive Modeling,7,Yes
+ETL,7,No
+Nvidia CUDA,6,No
+NumPy,6,Yes
+Keras,6,Kinda
+Version Control,6,Yes
+Generative AI,6,No
+Relational Databases,6,Yes
+Jenkins,6,No
+Github,5,Yes
+Data Warehousing,5,Kinda
+NoSQL,5,No
+React.js,5,Kinda
+Artificial NNs,5,Kinda
+Apache Hadoop,5,No
+Apache Hive,5,No
+Data Visualization,5,Yes
+Perl,4,No
+Feature Engineering,4,Yes
+RESTful API,4,Kinda
+Random Forest,4,Kinda
+Linear Algebra,3,Yes

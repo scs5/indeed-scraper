@@ -15,11 +15,13 @@ SKILL_COUNTS_OUTPUT_FN = './data/skill_counts.csv'
 SKILL_TYPES_OUTPUT_FN = './data/skill_types.csv'
 SKILL_CATEGORIES_OUTPUT_FN = './data/skill_categories.csv'
 COMBINED_SKILL_DATA_FN = './data/combined_skill_data.csv'
+KNOWN_SKILLS_DATA_FN = './data/known_skills.csv'
 
 # Visualization output filenames
 SKILL_COUNT_BARPLOT_FN = './figures/skill_counts.png'
 SKILL_TYPE_PIECHART_FN = './figures/skill_types.png'
 SKILL_CATEGORY_PIECHART_FN = './figures/skill_categories.png'
+KNOWN_SKILL_BARPLOT_FN = './figures/known_skills.png'
 
 
 def curate_data():
@@ -37,6 +39,7 @@ def visualize_data():
     visualize_skill_counts(COMBINED_SKILL_DATA_FN, SKILL_COUNT_BARPLOT_FN)
     visualize_hard_vs_soft(COMBINED_SKILL_DATA_FN, SKILL_TYPE_PIECHART_FN)
     visualize_category_pie(COMBINED_SKILL_DATA_FN, SKILL_CATEGORY_PIECHART_FN)
+    visualize_known_skills(KNOWN_SKILLS_DATA_FN, KNOWN_SKILL_BARPLOT_FN)
 
  
 def main():
