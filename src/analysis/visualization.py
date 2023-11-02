@@ -45,7 +45,7 @@ def visualize_hard_vs_soft(skills_count_fn, output_fn):
     
     # Create the pie chart
     plt.figure(figsize=(8, 8))
-    plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', colors=['lightblue', 'lightcoral'])
+    plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', colors=['lightblue', 'lightcoral'], textprops={'fontsize': 16})
     plt.title('Hard vs. Soft Skills', fontsize=18)
     
     # Save and display chart
