@@ -61,11 +61,11 @@ From these job descriptions, I extracted the most frequently mentioned skills an
 ### What skills am I lacking?
 Many of these skills were quite broad. My main aim with this project was to identify specific, learnable skills that I needed to focus on. I created a plot highlighting the top 50 skills, color-coded to indicate my proficiency in each.
 ![known](./figures/known_skills.png)
-📗 **Skills I know:** &emsp;&emsp;&emsp;&emsp;&emsp; Python, SQL, R, NLP, Sckikit-learn, APIs, Java, C++, Linux, Git, Pandas, Agile, Numpy, Version Control, ...
+📗 **Skills I know:** &nbsp; Python, SQL, R, NLP, Sckikit-learn, APIs, Java, C++, Linux, Git, Pandas, Agile, Numpy, Version Control, ...
 
 📒 **Skills I need to practice:**   &nbsp; PyTorch, JavaSCript, LLM, Unit Testing, Computer Vision, C, Keras, Data Warehousing, React, Artificial NNs
   
-📕 **Skills I need to learn:**  &emsp;&nbsp;&nbsp;     AWS, Apache Spark, DevOps, Azure, Tableau, MLOps, Docker, Kubernetes, Cloud Computing, ETL, Nvidia CUDA<br><br>
+📕 **Skills I need to learn:**  &nbsp;     AWS, Apache Spark, DevOps, Azure, Tableau, MLOps, Docker, Kubernetes, Cloud Computing, ETL, Nvidia CUDA<br><br>
 
 ### What types of skills are jobs looking for?
 I then organized these skills using ChatGPT, categorizing them into "hard" vs. "soft" skills and placing them in broader skill categories specific to my field.
