@@ -36,6 +36,14 @@ Do not respond with any other text, just the csv:\n
 
 
 def find_skill_info(data_fn, output_fn, info='Type', batch_size=200):
+    """Finds skill information (Type or Category) using ChatGPT and updates a CSV file.
+
+    Args:
+        data_fn (str): The filename of the CSV file containing skill data.
+        output_fn (str): The filename for saving the updated CSV file.
+        info (str): Information to find ('Type' or 'Category'). Defaults to 'Type'.
+        batch_size (int): Batch size for processing skills. Defaults to 200.
+    """
     # Set up data
     skill_data = pd.read_csv(data_fn)
     combined_data = pd.DataFrame(columns=['Skill', info, 'Count'])
@@ -71,6 +79,13 @@ def find_skill_info(data_fn, output_fn, info='Type', batch_size=200):
 
 
 def combine_skill_info(skill_type_fn, skill_category_fn, output_fn):
+    """Combines skill information from two CSV files into one and updates a CSV file.
+
+    Args:
+        skill_type_fn (str): The filename of the CSV file containing skill type data.
+        skill_category_fn (str): The filename of the CSV file containing skill category data.
+        output_fn (str): The filename for saving the updated CSV file.
+    """
     # Read the CSV files into Pandas DataFrames
     skill_type_df = pd.read_csv(skill_type_fn)
     skill_category_df = pd.read_csv(skill_category_fn)
@@ -84,5 +99,5 @@ def combine_skill_info(skill_type_fn, skill_category_fn, output_fn):
     # Select the desired columns
     merged_df = merged_df[["Skill", "Type", "Category", "Count"]]
 
-    # Write the merged DataFrame to the output CSV file
+    # Write the merged dataFrame to the output CSV file
     merged_df.to_csv(output_fn, index=False)

@@ -4,6 +4,13 @@ import matplotlib.pyplot as plt
 
 
 def visualize_skill_counts(skills_count_fn, output_fn, min_count=10):
+    """Visualizes skill counts in a bar chart.
+
+    Args:
+        skills_count_fn (str): The filename of the CSV file containing skill counts.
+        output_fn (str): The filename for saving the output plot.
+        min_count (int, optional): Minimum count threshold for including skills in the plot. Default is 10.
+    """
     # Load skill counts (filter out low count skills)
     skill_counts = pd.read_csv(skills_count_fn)
     skill_counts = skill_counts[skill_counts['Count'] >= min_count]
@@ -24,6 +31,12 @@ def visualize_skill_counts(skills_count_fn, output_fn, min_count=10):
 
 
 def visualize_hard_vs_soft(skills_count_fn, output_fn):
+    """Visualizes the distribution of hard vs. soft skills in a pie chart.
+
+    Args:
+        skills_count_fn (str): The filename of the CSV file containing skill counts.
+        output_fn (str): The filename for saving the output chart.
+    """
     # Load skill type counts
     skill_counts = pd.read_csv(skills_count_fn)
     
@@ -41,6 +54,12 @@ def visualize_hard_vs_soft(skills_count_fn, output_fn):
 
 
 def visualize_category_pie(skill_category_fn, output_fn):
+    """Visualizes skill categories in a pie chart.
+
+    Args:
+        skill_category_fn (str): The filename of the CSV file containing skill category counts.
+        output_fn (str): The filename for saving the output chart.
+    """
     # Load skill category counts
     skill_categories = pd.read_csv(skill_category_fn)
     
@@ -66,6 +85,12 @@ def visualize_category_pie(skill_category_fn, output_fn):
 
 
 def visualize_known_skills(data_fn, output_fn):
+    """Visualizes skills' counts based on their familiarity in a bar chart.
+
+    Args:
+        data_fn (str): The filename of the CSV file containing skill data.
+        output_fn (str): The filename for saving the output plot.
+    """
     # Read data
     data = pd.read_csv(data_fn)
     #data = data.drop(index=0)
