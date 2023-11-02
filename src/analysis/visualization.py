@@ -44,7 +44,7 @@ def visualize_hard_vs_soft(skills_count_fn, output_fn):
     category_counts = skill_counts.groupby('Type')['Count'].sum()
     
     # Create the pie chart
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 6))
     plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', colors=['lightblue', 'lightcoral'], textprops={'fontsize': 16})
     plt.title('Hard vs. Soft Skills', fontsize=24)
     
@@ -75,7 +75,7 @@ def visualize_category_pie(skill_category_fn, output_fn):
 
     # Create the pie chart
     colors = plt.cm.Paired(range(len(category_counts)))
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 6))
     plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', startangle=140, colors=colors, textprops={'fontsize': 16})
     plt.title('Skill Categories', fontsize=24)
     
