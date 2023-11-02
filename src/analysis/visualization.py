@@ -23,7 +23,7 @@ def visualize_skill_counts(skills_count_fn, output_fn, min_count=10):
     plt.subplots_adjust(left=0.3)
     ax.xaxis.label.set_fontsize(18)
     ax.yaxis.label.set_fontsize(18)
-    plt.title("What Are the Most Needed Skills?", fontsize=18, y=1.04)
+    plt.title("What Are the Most Needed Skills?", fontsize=24, y=1.04)
     
     # Save and display plot
     plt.savefig(output_fn)
@@ -46,7 +46,7 @@ def visualize_hard_vs_soft(skills_count_fn, output_fn):
     # Create the pie chart
     plt.figure(figsize=(12, 8))
     plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', colors=['lightblue', 'lightcoral'], textprops={'fontsize': 16})
-    plt.title('Hard vs. Soft Skills', fontsize=18)
+    plt.title('Hard vs. Soft Skills', fontsize=24)
     
     # Save and display chart
     plt.savefig(output_fn)
@@ -76,8 +76,8 @@ def visualize_category_pie(skill_category_fn, output_fn):
     # Create the pie chart
     colors = plt.cm.Paired(range(len(category_counts)))
     plt.figure(figsize=(12, 8))
-    plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', startangle=140, colors=colors)
-    plt.title('Skill Categories', fontsize=18)
+    plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%', startangle=140, colors=colors, textprops={'fontsize': 16})
+    plt.title('Skill Categories', fontsize=24)
     
     # Save and display chart
     plt.savefig(output_fn)
@@ -106,7 +106,7 @@ def visualize_known_skills(data_fn, output_fn):
     plt.subplots_adjust(left=0.3)
     ax.xaxis.label.set_fontsize(18)
     ax.yaxis.label.set_fontsize(18)
-    plt.title('What Skills Do I Have?', fontsize=18, y=1.04)
+    plt.title('What Skills Do I Have?', fontsize=24, y=1.04)
     
     # Increase the fontsize of y-axis tick labels
     ax.tick_params(axis='y', labelsize=12)
