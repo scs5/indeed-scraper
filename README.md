@@ -1,24 +1,24 @@
 # Job Skills Mining and Analysis
+
 ## Table of Contents
 1. [Overview](#overview)
     - [Key Objectives](#key-objectives)
     - [Technologies Used](#technologies-used)
 2. [Project Structure](#project-structure)
-3. [Installation](#installation)
-4. [Usage](#usage)
+3. [Get Started](#get-started)
 5. [Results](#results)
 6. [Challenges](#challenges)
 7. [Lessons Learned](#lessons-learned)
 8. [Acknowledgments](#acknowledgments)
 
 ## Overview
-This project aims to automate the process of extracting skills from job listings on Indeed, categorizing these skills, and performing data analysis on the extracted skills and their respective categories.
+Have you ever wondered which skills are in demand in the job market? Are you looking to enhance your skill set for a specific career path? Look no further! This project is all about automating the process of extracting skills from job listings on Indeed, categorizing them, and diving deep into data analysis to uncover valuable insights.
 
 ### Key Objectives
-1. **Web Scraping Indeed:** I start by scraping job listings from the Indeed job board using a selenium webdriver.
-2. **Skills Extraction with Lightcast API:** Next, I utilize the Lightcast API to extract skills from the job descriptions. Lightcast is a service that helps identify and extract specific skills and keywords from text, which is particularly useful for job-related data.
-3. **Skills Categorization with ChatGPT API:** After extracting skills, I employ the ChatGPT API to automatically categorize these skills. This categorization step helps organize the skills into broader skill categories or domains, making it easier to analyze and interpret the data.
-4. **Data Analysis:** Finally, I conduct data analysis to gain insights into the skills demand within the job market.
+- 🔍 **Web Scraping Indeed:** I kick things off by scraping job listings from Indeed using a webdriver.
+- 🛠️ **Skills Extraction with Lightcast API:** Next, I use the Lightcast API, a nifty service that identifies and extracts specific skills and keywords from text, especially tailored for job-related data.
+- 🧩 **Skills Categorization with ChatGPT API:** After skill extraction, I use the ChatGPT API to automatically categorize these skills. This categorization step helps organize the skills into broader categories, making the data more manageable and interpretable.
+- 📊 **Data Analysis:** Finally, I analyze the data to glean valuable insights into the skills currently sought after in the job market.
 
 ### Technologies Used
 #### Web Scraping:
@@ -30,36 +30,27 @@ This project aims to automate the process of extracting skills from job listings
 **Other:** matplotlib, seaborn, numpy, pandas
 
 ## Project Structure
-```
-.
-├── data                       # Data storage
-├── figures                    # Data visualizations
-├── src
-│   ├── analysis
-|   |   └── visualization.py   # Generates data visualizations
-|   |
-│   ├── categorization
-|   |   └── categorizer.py     # Categories skills
-|   |
-|   └── scraping
-|   |   ├── skill_scraper.py   # Extracts skills from job descriptions
-|   |   └── web_scraper.py     # Scrapes Indeed for job postings
-|   |
-|   ├── main.py                # Main project script
-|   └── utils.py               # Utility functions
-|
-├── .env                       # API keys
-├── .gitignore
-├── README.md
-└── requirements.txt           # Project dependencies
-```
+- 📂 **data:** storage for jobs information, skills, and their categories
+- 📂 **figures:** data visualizations
+- 📂 **src**
+    - 📂 **analysis**
+        - 📄 **`visualization.py`:** generates data visualizations
+    - 📂 **categorization**
+        - 📄 **`categorizer.py`:** categorizes skills
+    - 📂 **scraping**
+        - 📄 **`skill_scraper.py`:** extracts skills from job descriptions
+        - 📄 **`web_scraper.py`:** scraping job posting from Indeed
+    - 📄 **`main.py`:** main project script
+    - 📄 **`utils.py`:** utility functions
+- 📄 **.env:** API key storage
+- 📄 **requirements.txt:** project dependencies
 
-## Installation
-`pip install -r requirements.txt`
+## Get Started
+Ready to dive in? Here's what you need to do:
 
-## Usage
-Run `main.py`, uncommenting the functions you wish to call (scraping data, exctracting skills, or visualizing the data).<br>
-You will have to change `SKILL_CATEGORY_PROMPT_HEADER` in `categorizer.py` to accomodate your own self-made categories.
+1. Install dependencies with `pip install -r requirements.txt`.
+2. Run `main.py` and don't forget to uncomment the functions you want to use. 
+3. Customize your skill categories by tweaking `SKILL_CATEGORY_PROMPT_HEADER` in `categorizer.py`.
 
 ## Results
 I began by searching for positions similar to 'Machine Learning Engineer' and 'Data Scientist' in my area. I gathered data from around 150 job postings, filtering out duplicates and positions that didn't align with my goals. After this manual curation, I narrowed it down to 50 relevant job listings.
@@ -77,13 +68,13 @@ I then organized these skills using ChatGPT, categorizing them into "hard" vs. "
 ![types](./figures/skill_types.png)
 
 ## Challenges
-- While scraping data from Indeed, I encountered security measures that triggered captchas, requiring me to implement random waiting times between actions to simulate human-like behavior.
-- Crafting effective prompts for ChatGPT proved to be more challenging than expected. Ensuring clarity and specificity in the prompts is crucial to minimize response variability and prevent data formatting issues.
-- ChatGPT's API performance is a bit sluggish for regular users, leading to longer category generation times. Additionally, server overloads may occasionally disrupt the process.
+- 🛡️ **Captchas:**: While scraping data from Indeed, I encountered security measures that triggered captchas, requiring me to implement random waiting times between actions to simulate human-like behavior.
+- 💡 **Prompt Engineering:** Crafting effective prompts for ChatGPT proved to be more challenging than expected. Ensuring clarity and specificity in the prompts is crucial to minimize response variability and prevent data formatting issues.
+- 🚀 **API Performance:** ChatGPT's API performance is a bit sluggish for regular users, leading to longer category generation times. Additionally, server overloads may occasionally disrupt the process.
 
 ## Lessons Learned
-- It's advisable to explore existing APIs before resorting to web scraping. I later discovered that Indeed offers its own API, although I couldn't actually use it due to significant restrictions. Nevertheless, it could have simplified the project considerably if I had been able to use it.
-- Avoid hardcoding API keys directly into your code. I made the mistake of inadvertently committing my API keys in the early stages of development. To fix this, I securely stored them in a .env file, which is loaded into the main files while keeping it excluded from version control.
+- 🔑 **Explore APIs First:** It's advisable to explore existing APIs before resorting to web scraping. I later discovered that Indeed offers its own API, although I couldn't actually use it due to significant restrictions. Nevertheless, it could have simplified the project considerably if I had been able to use it.
+- 🔒 **Secure Your Keys:** Avoid hardcoding API keys directly into your code. I made the mistake of inadvertently committing my API keys in the early stages of development. To fix this, I securely stored them in a .env file, which is loaded into the main files while keeping it excluded from version control.
 
 ## Acknowledgments
 - [Lightcast's](https://lightcast.io/) API
