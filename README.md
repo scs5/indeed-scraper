@@ -54,8 +54,8 @@ Ready to dive in? Here's what you need to do:
 
 ## Results
 ### What are the most frequently mentioned skills?
-I began by searching for positions similar to 'Machine Learning Engineer' and 'Data Scientist' in my area. I gathered data from around 150 job postings, filtering out duplicates and positions that didn't align with my goals. After this manual curation, I narrowed it down to 50 relevant job listings.
-From these job descriptions, I extracted the most frequently mentioned skills and visualized them in a bar plot below.
+I began by searching for positions similar to 'Machine Learning Engineer' and 'Data Scientist' in my area. I gathered data from around 150 job postings, filtering out duplicates and positions that didn't align with my goals. This narrowed the data down to 50 relevant job listings.
+From these job descriptions, I extracted the most frequently mentioned skills and visualized them below.
 ![counts](./figures/skill_counts.png)
 
 ### What skills am I lacking?
