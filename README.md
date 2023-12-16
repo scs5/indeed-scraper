@@ -5,7 +5,7 @@
     - [Key Objectives](#key-objectives)
     - [Technologies Used](#technologies-used)
 2. [Project Structure](#project-structure)
-3. [Get Started](#get-started)
+3. [Usage](#usage)
 5. [Results](#results)
 6. [Challenges](#challenges)
 7. [Lessons Learned](#lessons-learned)
@@ -45,7 +45,7 @@ Have you ever wondered which skills are in demand in the job market? Are you loo
 - 📄 **.env:** API key storage
 - 📄 **requirements.txt:** project dependencies
 
-## Get Started
+## Usage
 Ready to dive in? Here's what you need to do:
 
 1. Install dependencies with `pip install -r requirements.txt`.
