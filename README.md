@@ -73,7 +73,7 @@ I then organized these skills using ChatGPT, categorizing them into "hard" vs. "
 ![types](./figures/skill_types.png)
 
 ## Challenges
-- 🛡️ **Captchas:**: While scraping data from Indeed, I encountered security measures that triggered captchas, requiring me to implement random waiting times between actions to simulate human-like behavior.
+- 🛡️ **Captchas:** While scraping data from Indeed, I encountered security measures that triggered captchas, requiring me to implement random waiting times between actions to simulate human-like behavior.
 - 💡 **Prompt Engineering:** Crafting effective prompts for ChatGPT proved to be more challenging than expected. Ensuring clarity and specificity in the prompts is crucial to minimize response variability and prevent data formatting issues.
 - ⚙️ **API Performance:** ChatGPT's API performance is a bit sluggish for regular users, leading to longer category generation times. Additionally, server overloads may occasionally disrupt the process.
 
